@@ -168,6 +168,566 @@
             {
                 "input":"Fale-me sobre a Sessão Ordinária, do TJAP",
                 "output":"Executar as ordens judiciais advindas dos Desembargadores por meio de acordaos e decisoes, por eles proferidos. Esse e o principio basico para o desempenho dos trabalhos exercidos pela Secretaria do Pleno do Tribunal de Justica do Amapa.As especificidades nas atribuicoes fazem parte deste departamento. Pois e nele que comeca o julgamento das acoes originarias, conflitos entre magistrados das varas civeis e criminais e, crimes de foro privilegiados. A Sessao Ordinaria, que e realizada todas as quartas-feiras, julga os meritos das acoes de competencia do Pleno. Ja a Sessao Extraordinaria, quando convocada, so acontece quando ha um numero relevante de julgamentos pendentes. E para haver Sessao, e necessaria a presenca de dois tercos do Colegiado. Qualquer cidadao ou cidada pode ter acesso as informacoes sobre processos que tramitam no ambito do Tribunal, exceto as que exigem, por lei, segredo de justica. Para ter acesso aos processos e simples e rapido: basta acessar o Sistema TUCUJURIS. Para o servidor, o sistema traz o beneficio da celeridade no cumprimento das decisoes e despachos proferidos pelos Desembargadores."
+            },
+            {
+                "instruction": "Como entrar em contato com 1ª Juizado Especial Cível Central de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99148-2978 ou pelo e-mail jciv1.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 1ª Vara Cível e de Fazenda Pública de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98402-3962 ou pelo e-mail civ1.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 1ª Vara Criminal de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98406-0298 ou pelo e-mail crim1.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 1ª Vara da Família, Órfãos e Sucessões de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3831 ou pelo e-mail fam1.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 1º Juizado Especial de Fazenda Publica de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99186-3047 ou pelo e-mail g.jfp1.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2ª Vara Cível e de Fazenda Pública de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98405-6826 ou pelo e-mail civ2.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2ª Vara Criminal de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-2263 ou pelo e-mail crim2.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2ª Vara da Família, Órfãos e Sucessões de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98415-3892 ou pelo e-mail fam2.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2º Juizado Especial Cível Central de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99187-1875 ou pelo e-mail jciv2.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2º Juizado Especial de Fazenda Publica de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98407-4479 ou pelo e-mail jfp2.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 3ª Vara Cível e de Fazenda Pública de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-2415 ou pelo e-mail g.civ3.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 3ª Vara Criminal de Auditoria Militar de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99133-6205 ou pelo e-mail crim3.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 3ª Vara da Família, Órfãos e Sucessões de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-9526 ou pelo e-mail fam3.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 3º Juizado Especial Cível Central de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3784 ou pelo e-mail jciv3.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 3º Juizado Especial de Fazenda Publica de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98405-69503 ou pelo e-mail vjefp.mcp.vc@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 4ª Vara Cível e de Fazenda Pública de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98402-1531 ou pelo e-mail nucleojustica.civeis@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 4ª Vara Criminal de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-1903 ou pelo e-mail crim4.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 4ª Vara da Família, Órfãos e Sucessões de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-0629 ou pelo e-mail fam4.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 4º Juizado Especial Cível Central de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3869 ou pelo e-mail jciv4.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 5ª Vara Cível e de Fazenda Pública de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98413-21965 ou pelo e-mail vara.civel@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 5ª Vara Criminal de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98401-7958 ou pelo e-mail crim5.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 5º Juizado Especial Cível da Zona Norte de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3878 ou pelo e-mail jciv5.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 6ª Vara Cível e de Fazenda Pública de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98406-8845 ou pelo e-mail civ6.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 6º Juizado Especial Cível da Zona Sul de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99154-5712 ou pelo e-mail juizado.sul@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 7º Juizado Especial Cível da Unifap de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99144-3308 ou pelo e-mail jciv7.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc Conceição Meireles?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 999144-3308 ou pelo e-mail jciv7.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc da Casa de Justiça e Cidadania?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99192-3063 ou pelo e-mail cjcap@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc da Tribuna Empresarial (sebrae)?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98409-7544 ou pelo e-mail cejusc.tribuna.vc@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc da Zona Norte?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98401-7466 ou pelo e-mail cejusc.norte@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc do Ceap Leonil Amanajás?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99111-9093 ou pelo e-mail cejusc.ceap@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc do Distrito de Bailique?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99181-6210 ou pelo e-mail cejusc.bailique@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc do Forum de Macapá Rosemary Palmerim?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-1209 ou pelo e-mail cejuscmcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc Faculdade Estácio - Famap?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99117-1011 ou pelo e-mail cejusc.famap@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Central de Audiência de Custódia?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3863 ou pelo e-mail plantao.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Central de Garantias e Execução de Penas e Medidas Alternativas - Secretaria e Atendimento Ao Público?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99182-4418 ou pelo e-mail central.garantias@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Central de Mandados da Comarca de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3553 ou pelo e-mail mandados.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Centro de Justiça Restaurativa de Macapá - Cejure?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312 3300 ou pelo e-mail cejure.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Contadoria Geral do Tribunal de Justiça do Amapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3845 ou pelo e-mail contadoria.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Diretoria do Fórum da Comarca de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3580 ou pelo e-mail diretoria.forum@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 01 da Central de Garantias e Exec. Penas e Med. Alternativas?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99182-4418 ou pelo e-mail gab01.garantias@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 01 do Núcleo de Saúde Estadual - Juíza Alaide Maria de Paula?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98402-1531 ou pelo e-mail gab01.saude@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 02 da Central de Garantias e Exec. Penas e Med. Alternativas?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99182-4418 ou pelo e-mail gab02.garantias@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 02 do Núcleo de Saúde Estadual - Juiz Fábio Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98407-4479 ou pelo e-mail gab02.saude@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 03 do Núcleo de Saúde Estadual - Juíza Priscylla Peixoto Mendes?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99186-3047 ou pelo e-mail g.jfp1.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Juizado da Infância e da Juventude - Área Cível e Administrativa de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98409-9483 ou pelo e-mail jcivadm.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Juizado da Infância e da Juventude - Área de Atos Infracionais de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98411-2304 ou pelo e-mail jatosinfr.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Juizado da Infância e da Juventude - Área de Políticas Públicas e Medidas Sócioeducativas de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98405-4536 ou pelo e-mail infancia.politicas.publicas@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Juizado de Violência Doméstica e Familiar Contra a Mulher de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98402-6374 ou pelo e-mail jvd.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Juizado Especial Criminal de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3873 ou pelo e-mail juizado.criminal@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Plantão Único de 1º Grau / Central de Audiência de Custódia?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3863 ou pelo e-mail plantao.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara de Execução de Penas e Medidas Alternativas de Macapá - Vepma?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99182-4418 ou pelo e-mail vepma.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara de Execução Penal de Macapá - Vep?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-0891 ou pelo e-mail vep.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara do Tribunal do Júri de Macapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-4091 ou pelo e-mail tribjur1.mcp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 1ª Vara Cível e de Fazenda Pública de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-1763 ou pelo e-mail varacivel.santana@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 1ª Vara Criminal e Tribunal do Júri de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-1871 ou pelo e-mail varacriminal.santana@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2ª Vara Cível e de Fazenda Pública de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-2200 ou pelo e-mail g.2varacivel.santana@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2ª Vara Criminal e Tribunal do Júri de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98411-3341 ou pelo e-mail varacriminal.santana@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 3ª Vara Cível e de Fazenda Pública de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98410-8538 ou pelo e-mail varacivel.santana@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc da Comarca de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-7533 ou pelo e-mail cejusc.santana@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Central de Mandados da Comarca de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-4209 ou pelo e-mail cmand.stn@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Central Psicossocial da Comarca de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3300 ou pelo e-mail psic.stn@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Diretoria do Fórum da Comarca de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-4268 ou pelo e-mail dir.stn@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Juizado Especial Cível de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99129-5599 ou pelo e-mail jeciv.stn@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Plantão Criminal da Comarca de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3782 ou pelo e-mail plantao.santana@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara da Infância e da Juventude de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-0915 ou pelo e-mail infancia.stn@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara de Juizados Especial Criminal e de Violência Doméstica e Familiar Contra a Mulher de Santana?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99186-3136 ou pelo e-mail jvd.stn@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara Única da Comarca de Mazagão?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98411-0845 ou pelo e-mail vu.mazagao@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara Única da Comarca de Amapá?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98402-6094 ou pelo e-mail varaunica.amapa@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara Única da Comarca de Tartarugalzinho?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98407-9948 ou pelo e-mail varaunica.tartarugalzinho@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara Única da Comarca de Ferreira Gomes?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-0106 ou pelo e-mail varaunica.ferreiragomes@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc da Comarca de Calçoene?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99123-5858 ou pelo e-mail cejusc.calcoene@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara Única da Comarca de Calçoene?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3874 ou pelo e-mail vu.calcoene@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 1ª Vara de Competência Geral e Tribunal do Juri de Laranjal do Jari?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-3328 ou pelo e-mail civ1.ljari@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2ª Vara de Competência Geral, Infância e Juventude de Laranjal do Jari?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98405-4627 ou pelo e-mail civ2.ljari@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc da Comarca Laranjal do Jari?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-7640 ou pelo e-mail cejusc.laranjaldojari@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 1ª Vara de Oiapoque?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98407-4358 ou pelo e-mail civ1.opq@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com 2ª Vara de Oiapoque?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98411-8904 ou pelo e-mail civ2.opq@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc Oiapoque?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98406-9544 ou pelo e-mail cejusc.oiapoque@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara Única da Comarca de Porto Grande?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99142-0794 ou pelo e-mail varaunica.portogrande@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc Vitória do Jari?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-1932 ou pelo e-mail cejusc.vitoria@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara Única da Comarca de Vitória do Jari?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-1932 ou pelo e-mail vu.vitoria@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Vara Única da Comarca de Pedra Branca do Amapari?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98404-4532 ou pelo e-mail vu.pedra@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Central de Acessibilidade e Informção Ao Cidadão?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-4534 ou pelo e-mail central.acessibilidade@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Coordenadoria Estadual da Mulher Em Situacao de Violencia Domestica e Familiar?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99157-2916 ou pelo e-mail coordenadoria.mulher@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Diretoria Geral do Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3780 ou pelo e-mail diretoriageral@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Núcleo de Cooperação Judiciária - Nucoop?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3207 ou pelo e-mail nucoop@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Ouvidoria - Tjap?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98412-5301 ou pelo e-mail ouvidoria@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Protocolo do Tjap?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3333 ou pelo e-mail protocolo@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Secretaria de Gestão de Pessoas - Sgp?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3770 ou pelo e-mail degesp@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Secretaria de Gestão Processual Eletrônica - Sgpe?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99131-2120 ou pelo e-mail sgpe@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Cejusc do Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98414-1301 ou pelo e-mail cejusc2g@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 01 do Tribunal de Justiça - Des. Gilberto Pinheiro?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3857 ou pelo e-mail plantaoextraordinario.gab.desgilberto@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 02 do Tribunal de Justiça - Des. Carmo Antônio?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3365 ou pelo e-mail gab.carmo@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 03 do Tribunal de Justiça - Des. Agostino Silverio?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99141-4698 ou pelo e-mail gabdes.agostino@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 04 do Tribunal de Justiça - Des. Mário Mazurek?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99125-3163 ou pelo e-mail gabdes.mazurek@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 05 do Tribunal de Justiça - Des. Carlos Tork?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99971-6032 ou pelo e-mail gabdes.carlostork@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 06 do Tribunal de Justiça - Des. Jayme Ferreira?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98406-1107 ou pelo e-mail gab.jayme.ferreira@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 07 do Tribunal de Justiça - Des. João Lages?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3815 ou pelo e-mail gabdes.lages@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 08 do Tribunal de Justiça - Des. Rommel Araújo?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99183-3900 ou pelo e-mail gabdes.rommel@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 09 do Tribunal de Justiça - Des. Adão Carvalho?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98400-2334 ou pelo e-mail gabdes.adao@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete da Corregedoria - Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99126-3816 ou pelo e-mail corregedoria@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete da Presidência do Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 3312-3307 ou pelo e-mail presidencia@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete da Vice-presidência do Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99138-1420 ou pelo e-mail vicepres@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Secretaria da Camara Única do Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99132-2741 ou pelo e-mail ana.alcoforado@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Secretaria da Secção Única do Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99144-3173 ou pelo e-mail seccao.unica@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Secretaria do Pleno Judicial do Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 981350404 ou pelo e-mail sec.pleno@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Secretaria Especial de Precatórios do Tribunal de Justiça?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 98408-2105 ou pelo e-mail protocolo.precatorios@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 01 da Turma Recursal - Juiz Décio José Santos Rufino?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap.gab01@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 02 da Turma Recursal - Juiz Cesar Scapin?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap.gab02@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 03 da Turma Recursal - Juiz José Luciano de Assis?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap.gab03@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Gabinete 04 da Turma Recursal - Juiz Reginaldo Andrade?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap.gab04@tjap.jus.br"
+            },
+            {
+                "instruction": "Como entrar em contato com Turma Recursal dos Juizados Especiais?",
+                "input": "",
+                "output": "Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap@tjap.jus.br"
             }
         ]
 }
