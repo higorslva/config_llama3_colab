@@ -2,73 +2,931 @@
     {
         "text": "<human>: Localização da Biblioteca\n<bot>: A Biblioteca “Juiz Francisco Souza de Oliveira” está situada no prédio do Palácio da Justiça, funciona de segunda a sexta-feira, de 7h30 às 14h30.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
         "text": "<human>: Finalidade da Biblioteca\n<bot>: A Biblioteca do TJAP tem como finalidade servir de suporte às atividades desenvolvidas pelo Tribunal de Justiça do Estado do Amapá, objetivando subsidiar a demanda de solicitações provenientes de todos os setores e dos usuários externos, sendo ainda, o organismo gerenciador e disseminador de informações jurídicas, procurando orientar os usuários quanto à utilização de todos os serviços oferecidos, a segurança dos documentos sob sua guarda e a disponibilidade das informações, possibilitando uma crescente interação entre Biblioteca e Usuário. E ainda, orienta, coordena, avalia e controla as atividades de desenvolvimento do acervo bibliográfico, visando subsidiar as solicitações jurídicas e não jurídicas. Realiza intercâmbio com instituições afins.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
         "text": "<human>: Missão da Biblioteca\n<bot>: É prover, com qualidade, o uso dos recursos informacionais, bem como facilitar o acesso à informação ao cidadão em geral, servindo de suporte às atividades desenvolvidas pelo Tribunal de Justiça do estado do Amapá, objetivando atender a demanda dos setores, das comarcas e da comunidade.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
         "text": "<human>: Acervo da Biblioteca\n<bot>: O acervo é especializado em Direito, procurando atender as necessidades de nossos usuários, considerando seu campo de ação e objetivos. O acervo bibliográfico é aberto a todos que desejarem consultá-lo, porém, o empréstimo é permitido a magistrados, serventuários, estagiários, bolsistas e a quem requerer ao Diretor Geral, conforme Regulamento da Biblioteca Portaria nº 57.902/2019 – GP, de 20 de maio de 2019. Possuímos um acervo de aproximadamente 23.800 obras, entre livros, periódicos, informativos e outros suportes.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
-        "text": "<human>: Atribuições da Biblioteca\n<bot>: 1. Cumprir e fazer cumprir o Regulamento de uso da biblioteca, assegurando organização e funcionamento;\n2. Atender aos usuários, internos e externos, disponibilizando e controlando o empréstimo de Livros, de acordo com Regulamento;\n3. Auxiliar na implementação dos projetos de leitura previstos ou a serem desenvolvidos;\n4. Auxiliar na organização do acervo de livros, periódicos entre outros;\n5. Encaminhar à DG sugestões de atualização do acervo, a partir das necessidades indicadas pelos usuários e/ou alterações na legislação;\n6. Zelar pela preservação, conservação e restauro do acervo;\n7. Registrar o acervo bibliográfico e dar baixa, quando necessário;\n8. Receber, organizar e controlar o material de consumo e equipamentos da biblioteca;\n9. Manusear e operar adequadamente os equipamentos e materiais, zelando pela sua manutenção;\n10. Participar de eventos, cursos, reuniões, sempre que convocado, ou por iniciativa própria, desde que autorizado pela direção, visando ao aprimoramento profissional de sua função;\n11. Exercer as demais atribuições decorrentes da demanda do TJAP e aquelas que concernem à especificidade de setor.",
+        "text": "<human>: Atribuições da Biblioteca\n<bot>: 1. Cumprir e fazer cumprir o Regulamento de uso da biblioteca, assegurando organização e funcionamento; 2. Atender aos usuários, internos e externos, disponibilizando e controlando o empréstimo de Livros, de acordo com Regulamento; 3. Auxiliar na implementação dos projetos de leitura previstos ou a serem desenvolvidos; 4. Auxiliar na organização do acervo de livros, periódicos entre outros; 5. Encaminhar à DG sugestões de atualização do acervo, a partir das necessidades indicadas pelos usuários e/ou alterações na legislação; 6. Zelar pela preservação, conservação e restauro do acervo; 7. Registrar o acervo bibliográfico e dar baixa, quando necessário; 8. Receber, organizar e controlar o material de consumo e equipamentos da biblioteca; 9. Manusear e operar adequadamente os equipamentos e materiais, zelando pela sua manutenção; 10. Participar de eventos, cursos, reuniões, sempre que convocado, ou por iniciativa própria, desde que autorizado pela direção, visando ao aprimoramento profissional de sua função; 11. Exercer as demais atribuições decorrentes da demanda do TJAP e aquelas que concernem à especificidade de setor.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
         "text": "<human>: Usuários\n<bot>: Magistrados, serventuários, estagiários, bolsistas e a comunidade em geral.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
         "text": "<human>: SERVIÇOS OFERECIDOS\n<bot>: Atendimento ao usuário; Orientamos os usuários em suas consultas, pesquisas e estudos; Supervisionamos o empréstimo/devolução e administramos a Sala de Leitura; Pesquisas: As pesquisas podem ser solicitadas pessoalmente, por telefone ou e-mail, por usuários internos e externos; Acesso a internet; Empréstimo, devolução e reserva de publicações (livros, periódicos, mídias e outros); Mantemos atualizada a base de dados do Diário Oficial do Estado – DOE, a Imprensa Oficial do Estado disponibilizou o Diário Oficial do Estado no formato virtual, on-line: www.sead.ap.gov.br. Novas aquisições: Divulgar os novos títulos adquiridos para compor o acervo; Reprografia e digitalização – extrair cópias de documentos e enviar por email; Atualizamos a base de dados da Legislação Estadual e selecionamos a Legislação inerente ao TJAP.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
         "text": "<human>: ATIVIDADES\n<bot>: Realiza a seleção do material bibliográfico a ser adquirido; Registra, classifica, cataloga e cadastra todo o material bibliográfico; Controla a circulação do acervo bibliográfico: empréstimo, devolução, renovação e reserva; Realiza reprografia e digitalização; Realiza procedimentos licitatórios necessários para subsidiar as novas aquisições; Executa os serviços de confecção de todo expediente (memorandos, ofícios, Intercâmbios) da Biblioteca e seus respectivos arquivamentos; Elaborar proposta de projeto de leitura de acordo com público-alvo; Atualiza o acervo de legislação do Estado e município de Macapá (DOE, DJE e DOM) e do TJAP; Efetua a renovação das assinaturas dos periódicos; Recupera e trata a informação; Presta orientação às solicitações dos usuários quanto às pesquisas solicitadas; Orienta quanto a alguns procedimentos as demais Bibliotecas do TJAP; Mantém a renovação dos periódicos sempre em dia; Mantém o banco de dados (livros e periódicos) atualizados; Realiza o descarte do material bibliográfico desatualizado; Gerencia as funções administrativas do Setor.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
         "text": "<human>: EQUIPE\n<bot>: O corpo técnico da Biblioteca dispõe de 04 (quatro) serventuárias e 01 (uma) bolsista do Projeto Complementação Educacional.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
         "text": "<human>: REGULAMENTO\n<bot>: Portaria nº 57.902/2019 – GP, de 20 de maio de 2019 – DJE 098/2019, de 03/06/2019 Artigo 1º - A Biblioteca atenderá Senhores Magistrados, Serventuários e o Público em geral, no horário de 07h30 às 14h30, de segunda à sexta-feira. Artigo 2º - O empréstimo das publicações que compõem o acervo do Tribunal de Justiça será efetuado mediante formulário assinado pelo requisitante. § 1º - Cada usuário poderá ter em seu poder no máximo 04 (quatro) publicações. § 2º - O empréstimo a pessoas não pertencentes ao Quadro desta Corte fica condicionado à autorização expressa do Diretor-Geral. Artigo 3º - O prazo para empréstimo será de 07 (sete) dias para serventuários e 10 (dez) dias para magistrados, podendo ser renovado, mediante a apresentação da obra na Biblioteca, e desde que esta não esteja sendo solicitada por outro usuário. § 1º - O disposto no caput deste artigo não se aplica a obras de referência, tais como enciclopédias, dicionários, obras raras, coleções especiais e legislação, passíveis somente de consulta no âmbito da Biblioteca. § 2º - Obras muito solicitadas, com apenas um exemplar na Biblioteca, só poderão ser emprestadas por 01 (um) dia, ou em finais de semana ou feriados, devendo ser devolvidas no início do expediente do dia determinado. § 3º - No mês de dezembro, as obras retiradas deverão ser devolvidas até o dia 15 (quinze). Artigo 4º - Atrasando a devolução, o usuário ficará impedido de fazer novos empréstimos enquanto não efetuar a entrega das obras em seu poder. Parágrafo único - Em caso de reincidência o usuário terá seu cadastro ou matrícula cancelada, sendo impedido de solicitar novo cadastro. Artigo 5º - Em caso de extravio ou dano, o usuário ficará obrigado a fornecer, dentro do prazo de 30 (trinta) dias, novo exemplar da obra extraviada ou danificada; havendo total impossibilidade de fazê-lo, restituirá obra similar, a ser especificada pela Biblioteca. Parágrafo único - O descumprimento do caput deste artigo importa em exclusão do Quadro de usuários, sem prejuízo de eventual apuração administrativa. Artigo 6º - O usuário da Biblioteca deverá, antes de acessar as dependências da Biblioteca, deverá deixar seus objetos pessoais, tais como bolsas, pastas, mochilas, malas ou outro tipo de material no guarda-volumes. Artigo 7º - Os casos omissos deste Regulamento serão dirimidos pelo Diretor-Geral.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
-        "text": "<human>: CONTATOS\n<bot>: E-mail: biblioteca@tjap.jus.br / luciane.sena@tjap.jus.br; Telefone: 3312-3375; Instagram: @tjbibliotecap",
+        "text": "<human>: Fale-me sobre o Departamento de Informatica e Telecomunicacoes (DEINTEL) do TJAP\n<bot>: O Departamento de Informatica e Telecomunicacoes (DEINTEL) e responsavel pela infraestrutura da tecnologia de informacao e comunicacao, qualidade de atendimento e governanca de TIC. E uma  engrenagem essencial para o pleno funcionamento da maquina do Poder Judiciario Amapaense. Atraves de uma infraestrutura adequada, o Departamento tem por objetivo acelerar a virtualizacao dos processos judiciais e administrativos. Para tanto conta com um grupo de colaboradores do mais alto nivel tecnico, extremamente profissionais, forjados pela sede de apresentar resultados que impulsionam a Justica Amapaense a posicao de mais celere de todo o territorio nacional. O DEINTEL esta organizado nas seguintes unidades funcionais Telecom, Banco de Dados, Servidores, Seguranca, Service Desk, Autoridade de Registro, Infraestrutura e Governanca. UNIDADE DE TELECOM- e a Unidade Gerencial do Departamento de Informatica e Telecomunicacoes, responsavel por manter gestoes de servicos como: Links de Comunicacao de Dados e Servicos de Telefonia Os Servicos de Links de Comunicacao de Dados servem para prover a troca de Informacoes (Dados, Voz e Video) entre a Sede do TJAP e Unidades Judiciais e Administrativas da Capital e do Interior. UNIDADE DE BANCO DE DADOS- As informacoes geradas pelos Sistemas Administrativos e Judiciais (1o e 2o grau) formam um ativo primordial a Justica Amapaense. Esses dados sao armazenados em bases alocadas de forma descentralizada nas diversas Unidades Judiciais e Administrativas por todo Estado, formando as Bases de Dados. A unidade gerencial de Banco de Dados, tem como sua principal responsabilidade a de administrar essas informacoes e os servicos relacionados aos SGBD`s (Sistemas de Gerenciamento de Banco de Dados), garantindo a sua integridade, a sua autenticidade e a sua disponibilidade. UNIDADE DE SERVIDORES- A Unidade de Servidores tem como uma de suas mais importantes responsabilidades de tornar disponiveis, atraves de uma infraestrutura de TIC adequada a uma demanda crescente, os servicos providos pelos computadores servidores do Tribunal de Justica, possibilitando acesso agil e constante aos sistemas administrativos e judiciais, tanto para seus usuarios internos, ou seja, os Serventuarios e Magistrados, bem como tambem aos usuarios externos, operadores do direito e a populacao em geral, atraves do Portal do TJAP. Os principais servicos geridos por essa unidade sao: controle de acesso a Internet, e-mail, arquivos institucionais (armazena), autenticacao dos usuarios na rede, controle de acesso ao portal ( /portal/../ www.tjap.jus.br ), dentre outros. UNIDADE DE SEGURANCA- A Unidade de Seguranca tem como finalidade a protecao das informacoes judiciarias da sociedade, que sao tuteladas pelo Tribunal de Justica. Esta unidade tem diversos desafios para o cenario a qual esta inserida, mas principalmente a de manter o acesso as informacoes sensiveis fora do alcance de pessoas mal intencionadas, que se utilizando das facilidades providas pelos beneficios tecnologicos implantados, tentam causar danos as mesmas e a imagem desta instituicao perante a sociedade. UNIDADE DE SERVICE DESK- O Service Desk e uma unidade gerencial cujo objetivo e garantir o funcionamento das operacoes de TIC, atraves da prestacao de servico de instalacao de hardware e software necessarios a todos os Magistrados e Servidores. Tem tambem como funcao realizar suportes tecnicos de 1o e 2  niveis, que perfazem os atendimentos remotos e presenciais de baixa e media complexidade, aos usuarios de TIC, nas diversas areas do ambiente computacional da Justica do Amapa, como: microcomputadores, impressoras, scanner, sistemas operacionais, aplicativos, configuracoes e manutencoes de hardwares, suporte a redes de computadores, dentre outros. AUTORIDADE DE REGISTRO- Uma Autoridade de Registro (AR) e uma entidade operacionalmente vinculada a uma AC (Autoridade de Certificadora), que e responsavel pela interface entre os usuarios e a AC, e tem por objetivo o recebimento, validacao, encaminhamento de solicitacoes de emissao ou revogacao de Certificados Digitais, Identificando de forma presencial seus solicitantes e mantendo registros de suas operacoes em local protegido com acesso restrito. \"Um Certificado Digital e um arquivo eletronico de identificacao de pessoa fisica ou juridica, ou seja, e um Documento Eletronico de Identidade pessoal e intransferivel\". UNIDADE DE INFRAESTRUTURA- O setor de infraestrutura e responsavel por disponibilizar o meio fisico, assim como os equipamentos para que seja estabelecido o enlace de comunicacao de dados entre as unidades da rede corporativa do TJAP. Esta sob a responsabilidade deste setor o projeto, a aquisicao, a implantacao, o monitoramento e a manutencao dos seguintes servicos/equipamentos, para todas as unidades judiciarias e administrativas: a aquisicao de ativos de redes de comunicacao indoor e outdoor (switchs); cabeamento estruturado metalico e de fibra optica das unidades judiciarias; sistema de videomonitoramento do predio sede do TJAP e do Forum de Macapa; sistema de enlace de radios indoor e outdoor nas e entre as unidades judiciarias e administrativas do TJAP. \"Projetos de infraestrutura futuros apontam para a necessidade de projeto de um Site Backup, replica fiel do datacenter do TJAP, no Forum de Macapa e um novo datacenter no futuro predio do Centro Tecnologico\". UNIDADE DE GOVERNANCA DE TIC- Esta unidade gerencial tem por objetivo agregar, coordenar, desenvolver competencias e habilidades voltadas ao planejamento, implantacao, controle e monitoramento de programas e projetos na area de TIC, alinhados aos objetivos estrategicos do Tribunal de Justica. A Governanca de TIC compreende, basicamente, o conjunto de praticas e padroes com a finalidade de garantir controles efetivos, ampliar a seguranca, diminuir os riscos, melhorar o desempenho, racionalizar os recursos, reduzir os custos, tudo isso voltado as necessidades da Administracao. Ao longo dos ultimos 23 anos, o Tribunal de Justica do Amapa, atraves de uma visao de vanguarda de todos os seus dirigentes maximos, tem aportado e garantindo recursos que asseguram a manutencao e ampliacao da estrutura tecnologica de informatica da Justica em todo o Estado.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
         }
     },
     {
-        "text": "<human>: LEI COMPLEMENTAR Nº 0047/2008\n<bot>: Dispõe sobre a criação, estruturação e funcionamento da Biblioteca do Tribunal de Justiça do Estado do Amapá – TJAP. LEI COMPLEMENTAR Nº 0047/2008, DE 09 DE SETEMBRO DE 2008 (Publicada no Diário Oficial nº 4081, de 09/09/2008) Art. 1º - Fica criada, no âmbito do Tribunal de Justiça do Estado do Amapá, a Biblioteca do Tribunal de Justiça “Juiz Francisco Souza de Oliveira”, com sede na cidade de Macapá. Art. 2º - A Biblioteca do Tribunal de Justiça “Juiz Francisco Souza de Oliveira”, além das funções de consulta, pesquisa e empréstimo de obras de Direito e outras de interesse dos magistrados, servidores e público em geral, terá, também, caráter informativo e cultural. Art. 3º - A Biblioteca do Tribunal de Justiça “Juiz Francisco Souza de Oliveira” terá a seguinte estrutura básica: I – Corpo Técnico, que será composto por profissionais de nível superior ou médio, especialistas na área biblioteconômica e auxiliar de Biblioteca; II – Corpo Bibliográfico, composto por livros, periódicos, revistas, jornais, DVD’s e demais fontes de informações e materiais bibliográficos. Parágrafo Único – A estrutura de que trata este artigo poderá ser ampliada a critério da Administração do TJAP. Art. 4º - Fica o Tribunal de Justiça do Estado do Amapá autorizado a firmar Convênio de Cooperação Técnico-Científica e Cultural com a Universidade Federal do Amapá – UNIFAP, com outras Universidades e entidades culturais e/ou científicas. Art. 5º - Esta Lei Complementar entra em vigor na data de sua publicação.",
+        "text": "<human>: \n<bot>: O Departamento de Informatica e Telecomunicacoes (DEINTEL) e responsavel pela infraestrutura da tecnologia de informacao e comunicacao, qualidade de atendimento e governanca de TIC. E uma  engrenagem essencial para o pleno funcionamento da maquina do Poder Judiciario Amapaense. Atraves de uma infraestrutura adequada, o Departamento tem por objetivo acelerar a virtualizacao dos processos judiciais e administrativos. Para tanto conta com um grupo de colaboradores do mais alto nivel tecnico, extremamente profissionais, forjados pela sede de apresentar resultados que impulsionam a Justica Amapaense a posicao de mais celere de todo o territorio nacional. O DEINTEL esta organizado nas seguintes unidades funcionais Telecom, Banco de Dados, Servidores, Seguranca, Service Desk, Autoridade de Registro, Infraestrutura e Governanca. UNIDADE DE TELECOM- e a Unidade Gerencial do Departamento de Informatica e Telecomunicacoes, responsavel por manter gestoes de servicos como: Links de Comunicacao de Dados e Servicos de Telefonia Os Servicos de Links de Comunicacao de Dados servem para prover a troca de Informacoes (Dados, Voz e Video) entre a Sede do TJAP e Unidades Judiciais e Administrativas da Capital e do Interior. UNIDADE DE BANCO DE DADOS- As informacoes geradas pelos Sistemas Administrativos e Judiciais (1o e 2o grau) formam um ativo primordial a Justica Amapaense. Esses dados sao armazenados em bases alocadas de forma descentralizada nas diversas Unidades Judiciais e Administrativas por todo Estado, formando as Bases de Dados. A unidade gerencial de Banco de Dados, tem como sua principal responsabilidade a de administrar essas informacoes e os servicos relacionados aos SGBD`s (Sistemas de Gerenciamento de Banco de Dados), garantindo a sua integridade, a sua autenticidade e a sua disponibilidade. UNIDADE DE SERVIDORES- A Unidade de Servidores tem como uma de suas mais importantes responsabilidades de tornar disponiveis, atraves de uma infraestrutura de TIC adequada a uma demanda crescente, os servicos providos pelos computadores servidores do Tribunal de Justica, possibilitando acesso agil e constante aos sistemas administrativos e judiciais, tanto para seus usuarios internos, ou seja, os Serventuarios e Magistrados, bem como tambem aos usuarios externos, operadores do direito e a populacao em geral, atraves do Portal do TJAP. Os principais servicos geridos por essa unidade sao: controle de acesso a Internet, e-mail, arquivos institucionais (armazena), autenticacao dos usuarios na rede, controle de acesso ao portal ( /portal/../ www.tjap.jus.br ), dentre outros. UNIDADE DE SEGURANCA- A Unidade de Seguranca tem como finalidade a protecao das informacoes judiciarias da sociedade, que sao tuteladas pelo Tribunal de Justica. Esta unidade tem diversos desafios para o cenario a qual esta inserida, mas principalmente a de manter o acesso as informacoes sensiveis fora do alcance de pessoas mal intencionadas, que se utilizando das facilidades providas pelos beneficios tecnologicos implantados, tentam causar danos as mesmas e a imagem desta instituicao perante a sociedade. UNIDADE DE SERVICE DESK- O Service Desk e uma unidade gerencial cujo objetivo e garantir o funcionamento das operacoes de TIC, atraves da prestacao de servico de instalacao de hardware e software necessarios a todos os Magistrados e Servidores. Tem tambem como funcao realizar suportes tecnicos de 1o e 2  niveis, que perfazem os atendimentos remotos e presenciais de baixa e media complexidade, aos usuarios de TIC, nas diversas areas do ambiente computacional da Justica do Amapa, como: microcomputadores, impressoras, scanner, sistemas operacionais, aplicativos, configuracoes e manutencoes de hardwares, suporte a redes de computadores, dentre outros. AUTORIDADE DE REGISTRO- Uma Autoridade de Registro (AR) e uma entidade operacionalmente vinculada a uma AC (Autoridade de Certificadora), que e responsavel pela interface entre os usuarios e a AC, e tem por objetivo o recebimento, validacao, encaminhamento de solicitacoes de emissao ou revogacao de Certificados Digitais, Identificando de forma presencial seus solicitantes e mantendo registros de suas operacoes em local protegido com acesso restrito. \"Um Certificado Digital e um arquivo eletronico de identificacao de pessoa fisica ou juridica, ou seja, e um Documento Eletronico de Identidade pessoal e intransferivel\". UNIDADE DE INFRAESTRUTURA- O setor de infraestrutura e responsavel por disponibilizar o meio fisico, assim como os equipamentos para que seja estabelecido o enlace de comunicacao de dados entre as unidades da rede corporativa do TJAP. Esta sob a responsabilidade deste setor o projeto, a aquisicao, a implantacao, o monitoramento e a manutencao dos seguintes servicos/equipamentos, para todas as unidades judiciarias e administrativas: a aquisicao de ativos de redes de comunicacao indoor e outdoor (switchs); cabeamento estruturado metalico e de fibra optica das unidades judiciarias; sistema de videomonitoramento do predio sede do TJAP e do Forum de Macapa; sistema de enlace de radios indoor e outdoor nas e entre as unidades judiciarias e administrativas do TJAP. \"Projetos de infraestrutura futuros apontam para a necessidade de projeto de um Site Backup, replica fiel do datacenter do TJAP, no Forum de Macapa e um novo datacenter no futuro predio do Centro Tecnologico\". UNIDADE DE GOVERNANCA DE TIC- Esta unidade gerencial tem por objetivo agregar, coordenar, desenvolver competencias e habilidades voltadas ao planejamento, implantacao, controle e monitoramento de programas e projetos na area de TIC, alinhados aos objetivos estrategicos do Tribunal de Justica. A Governanca de TIC compreende, basicamente, o conjunto de praticas e padroes com a finalidade de garantir controles efetivos, ampliar a seguranca, diminuir os riscos, melhorar o desempenho, racionalizar os recursos, reduzir os custos, tudo isso voltado as necessidades da Administracao. Ao longo dos ultimos 23 anos, o Tribunal de Justica do Amapa, atraves de uma visao de vanguarda de todos os seus dirigentes maximos, tem aportado e garantindo recursos que asseguram a manutencao e ampliacao da estrutura tecnologica de informatica da Justica em todo o Estado.",
         "metadata": {
-            "source": "formatted_data.json"
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Ele e o coracao da administracao do poder Judiciario Amapaense. Assim pode ser chamado o DA (Departamento Administrativo). Subordinado a Diretoria-Geral, o setor desenvolve trabalhos voltados a construcao de predios, manutencao de veiculos; compra de materiais do dia a dia; servicos de limpeza e manutencao; reformas nas Unidades do Judiciario; gerencia os bens que foram adquiridos por licitacao; distribui materiais de escritorio para os Foruns, sede e Comarcas. Para melhor administrar e executar as suas atribuicoes, o Departamento Administrativo encontra-se estruturado com as seguintes Divisoes : Divisao de Engenharia e Fiscalizacao, que tem o objetivo de desenvolver projetos arquitetonicos, urbanisticos, projetos de construcao de predios e a fiscalizacao das obras em andamento. Divisao de Garagem, Arquivo e Deposito, que e responsavel pela manutencao de veiculos, arquivamentos de processos e documentos que sao ditos como \"arquivos mortos\". Divisao de Gestao de Patrimonio, responsavel por distribuir, controlar, registrar todos os equipamentos que sao adquiridos por licitacao. Divisao de Material, tendo a responsabilidade de gerir e distribuir materiais de escritorio. Divisao de Servicos Gerais, responsavel por coordenar os motoristas que prestam servicos a Justica do Amapa, gerenciando tambem uma equipe que tem a finalidade de fazer reparos nos predios do Tribunal de Justica. Um dos exemplos dos servicos acompanhados pelo Departamento Administrativo foi a construcao do predio do Forum da Comarca de Laranjal do Jari e a instalacao dos detectores de metais no predio Sede do TJAP, nos Foruns de Macapa, de Santana e de Laranjal do Jari. O Departamento Administrativo funciona agora no predio recem-inaugurado da Justica Estadual localizado na Rua Tiradentes no 62, esquina com a Avenida Raimundo Alvares da Costa.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: A Diretoria-Geral e a unidade responsavel por inumeras atividades no ambito do Poder Judiciario do Estado do Amapa, sendo que entre as suas competencias destacam-se a implementacao e coordenacao dos macros objetivos constantes do Planejamento Estrategico do TJAP, com foco na missao, visao e seus valores institucionais.  O modelo de gestao adotado pelo Tribunal permite a Diretoria-Geral interagir sistematicamente com as demais unidades administrativas e jurisdicionais que o compoem, no sentido de contribuirem para o desenvolvimento de suas atividades e, assim, potencializarem oportunidades e reduzirem riscos para o alcance da missao do Judiciario Amapaense e oferecer a sociedade um servico judicial de qualidade. As decisoes estrategicas lideradas pela Diretoria-Geral estao pautadas no Plano de Trabalho da Alta Gestao, apresentado por ocasiao da posse do Desembargador- Presidente. Assim, as acoes constantes do Plano de Trabalho inerentes a prestacao jurisdicional, a politicas de gestao administrativa, gestao de pessoas, orcamento, financas, contratos, convenios, termos de cooperacao e outros instrumentos similares, sao coordenadas pela Diretoria-Geral. Despesas essas, correntes ou de capital, sao submetidas a ratificacao ou nao da Presidencia.   Nesse sentido, a Diretoria-Geral mantem esforcos para o gerenciamento racional dos recursos organizacionais, na coordenacao e fiscalizacao e na implementacao de programas, projetos e atividades, necessarias a consolidacao de acoes com vistas a materializacao dos objetivos, diretrizes e metas que proporcionarao uma prestacao jurisdicional, celere, segura e eficaz. No que diz respeito a concepcao do orcamento, coordena por meio das unidades setoriais a elaboracao da Proposta Orcamentaria do Poder Judiciario, encaminhando-a ao Poder Executivo para consolidacao, apos sua aprovacao pelo Pleno Administrativo. Sendo que, as solicitacoes de creditos adicionais, os balancos orcamentarios, financeiros, patrimoniais e as tomadas de contas sao submetidos ao conhecimento e deliberacao do Gestor Maximo para posterior encaminhamento aos orgaos competentes. Programar, executar, acompanhar e avaliar o desempenho do Plano de Trabalho do TJAP, com suporte em parametros previamente definidos, identificando eventuais desvios e promovendo as correcoes necessarias, sao acoes rotineiras da Diretoria-Geral, num processo de atuacao sistemica com as Unidades Administrativas e Jurisdicionais que compoem o Poder Judiciario do Estado do Amapa.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: O DEPARTAMENTO DE SISTEMAS, Orgao do Tribunal de Justica do Estado do Amapa subordinado administrativamente a Diretoria Geral, foi criado no ano de 2009, atraves do projeto de Lei 1376/2009 de 7 de outubro/2009, desmembrado do atual Departamento de Informatica e Telecomunicacoes - DEINTEL, onde possuia status de Divisao de Desenvolvimento de Softwares. Com a crescente demanda no desenvolvimento de softwares no TJAP, principalmente com a necessidade emergente de se instalar o processo virtual na Justica do Amapa, como forma de tornar a atividade jurisdicional mais celere e agil, bem como a automatizacao e integracao dos procedimentos administrativos, tornou-se necessario que a equipe de desenvolvimento de softwares tivesse sua autonomia funcional, como forma de poder alavancar os trabalhos com poder de tomada de decisao, e assim fluir com a execucao plena das atividades. Como forma de auxilio e orientacao dos trabalhos executados no Departamento de Sistemas, foram tambem criados as Comissoes, tanto administrativas quanto judiciarios, cuja a interoperabilidade muito veio a contribuir no desenvolvimento dos aplicativos que auxiliam as atividades internas da Justica, quanto a sociedade em geral. A forma de atuacao das Comissoes se da atraves de levantamento e mapeamento de requisitos tecnicos dos procedimentos a serem informatizados e a partir de entao, a discussao com o Diretor da area da equipe, que por sua vez apura e analisa os mesmos conjuntamente com a equipe tecnica, ocasionando assim a decomposicao em procedimentos operacionais distribuidos para desenvolvimento de produtos, que apos sua conclusao, sao liberados para homologacao das Comissoes, so para apos ir para linha de producao. De forma a melhor distribuir os trabalhos no Departamento de Sistemas, como meio de otimizar o gerenciamento e o desenvolvimento das atividades, foram criados as Divisoes Administrativas e Judiciarias, atraves do qual sao produzidos os softwares de acordo com a necessidade de cada area. Cada Divisao do Departamento e gerido por um Diretor, responsaveis pela organizacao, gerenciamento e producao dos servicos dentro das respectivas areas, sendo que em sua composicao, de forma a consolidar a execucao das tarefas, estao ai inseridos Assessores em Tecnologia da Informcao, gerentes de Projetos de Informatica, Analistas, Programadores e Estagiarios, a qual descrevemos as atribuicoes a seguir: E de responsabilidade do Departamento de Sistemas, toda a implementacao e manutencao dos aplicativos de Internet, englobando ai o Portal do TJAP, que disponibiliza servicos e informacoes ao publico externo, e a Intranet, que disponibiliza servicos as areas internas, sendo que a responsabilidade de alimentacao das informacoes a serem disponibilizadas sao de inteira responsabilidade de cada area envolvida no processo. Ressalta-se ainda que, todos os servicos desenvolvidos e disponibilizados pelo TJAP, tanto em sua rede corporativa quanto na Internet, sao totalmente desenvolvidos localmente, com recursos e mao-de-obra propria, de responsabilidade do Departamento de Sistemas, inclusive o Software \"TUCUJURIS - Processo Judicial Eletronico\", que oferta apoio operacional aos diversos segmentos da area judiciaria, inclusive contando com a implantacao de Unidades totalmente Virtuais. O departamento de Sistemas, alem de prover a infraestrutura de software necessaria para o gerenciamento funcional da Justica do Amapa, desenvolveu e presta manutencao em diversos aplicativos, que visam a atender Unidades Externas que se locupletam da rede, com interacao direta no Sistema Tucujuris via WEB, dentre os quais, o Ministerio Publico, a OAB e a Fazenda Estadual.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Criada em 2002, por meio da Lei Estadual no 726, a Comissao de Licitacao e Cadastro do Tribunal de Justica do Amapa, que e constituida por 10 agentes publicos, com a colaboracao de um estagiario e dois bolsistas, que conduzem os trabalhos para futuras contratacoes. A CLC tem a responsabilidade de receber, examinar e julgar todos os documentos e procedimentos relativos ao cadastramento de licitantes e as licitacoes de obras e servicos nas modalidades: Concorrencia, Tomada de Precos, Convite e Pregao.  Segundo o coordenador da Comissao, Glaucio Maciel Bezerra, o Tribunal de Justica do Amapa sempre buscou dar mais celeridade as contratacoes de bens e servicos, para que a Instituicao desenvolva suas atividades de acordo com a demanda do Estado, com qualidade. Foi ai que o Pregao Eletronico se encaixou como uma luva, para os padroes exigidos pela Justica do Amapa. Cerca de 95% das contratacoes sao realizadas por meio de Pregao Eletronico, devido o  acesso e participacao de mais empresas, de qualquer lugar do Pais, com mais economia e transparencia. Basta acessar a internet. Tudo isso traz muita agilidade e desburocratiza todo o processo\", ressaltou. No Tribunal de Justica do Amapa, todas as licitacoes sao divulgadas na pagina do orgao na internet e no Diario da Justica Eletronico (DJe). Alem desses meios, e utilizado tambem para o Pregao Eletronico, o \"Sistema Licitacoes-e\". E Uma especie de bolsa, onde o TJAP pode obter propostas das empresas em geral, para suas aquisicoes e contratacoes e, para isso basta acessar:  http://www.licitacoes-e.com.br/ www.licitacoes-e.com.br .",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Criado em 2005, apos a cisao do antigo DECONF (Depto. de Contabilidade, Orcamento e Financas), o DEFIN agrega dois setores importantes para o bom andamento da maquina administrativa do Judiciario estadual: o orcamentario e o financeiro.  Ele e responsavel pelos recebimentos de recursos de repasses federais e estaduais e, tambem, todos os pagamentos administrativos efetuados pelo Tribunal, como por exemplo, salarios e dos contratos de fornecedores. O Departamento de Orcamento e Financas exerce duas atividades bem distintas. O orcamentario, que se encarrega, dentre outras, da Liquidacao da Despesa, ou seja, checar se o servico contratado pela instituicao foi prestado/cumprido, se o produto adquirido foi fornecido como prometido, a qualidade da documentacao fiscal, e se o valor a pagar corresponde corretamente ao contratado; alem de rotinas de acompanhamento da execucao orcamentaria, programacao de despesas, e auxilio na elaboracao da Proposta Orcamentaria. Ja o financeiro, tem a funcao de fazer o Pagamento da Despesa, ou seja, transferencias bancarias para fornecedores do Tribunal, confirmar transferencias de transacoes bancarias, arquivar, movimentar saldos e extratos bancarios, fazer encontro/conciliacao de contas, elaborar o fluxo de caixa e, apresentar o balanco financeiro. Mas, para que toda essa engrenagem funcione com rapidez e seguranca, a Justica Estadual, utiliza o Sistema de Pagamentos Brasileiro - SPB, atraves dos programas disponibilizados pelos Bancos (\"cliente-servidor\" e \"web\"), que e um conjunto de procedimentos, regras, instrumentos e operacoes integrados entre os Bancos, que, por meio eletronico, dao suporte a movimentacao financeira das Instituicoes. Tudo isso resulta em maior protecao quanto a gestao/utilizacao dos Recursos, evitando desvios de dinheiro publico, aplicacao inadequada, ou qualquer tipo de fraude. Segundo informacao do proprio departamento, no Tribunal de Justica nao se movimenta dinheiro em especie em momento algum. Todo e qualquer tipo de pagamento e feito atraves do SPB, ou operacoes nos sistemas individuais de cada Banco. Isso, alem de garantir 100% de transparencia e seguranca, agiliza a liberacao de recursos, facilita a prestacao de contas, e a comprovacao de gastos. O Poder Judiciario do Amapa mantem com essa eficaz metodologia administrativa, desempenhada pelo Departamento, a manutencao do pagamento em dia de suas obrigacoes, o que garante o bom relacionamento com seus fornecedores e, tambem, evita o acumulo de dividas para o erario. Todo esse empenho em dar um agil atendimento gera credibilidade do Judiciario amapaense perante a sociedade, refletida, por exemplo, na grande quantidade de participantes de processos licitatorios, sempre em numero expressivo, o que mostra a confianca na Instituicao. Qualquer pessoa ou fornecedor pode fazer consulta online para saber sobre o andamento dos seus pagamentos a receber. Para isso, basta acessar o Portal da Transparencia do Tribunal de Justica do Amapa.  /portal/transparencia.html /portal/transparencia.html",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Assessoria de Comunicacao do TJAP: o Link de informacoes e aproximacao do Judiciario com a populacao amapaense. A Justica do Amapa, por meio da Resolucao 85 do Conselho Nacional de Justica (CNJ), que orienta as acoes de Comunicacao Social, adere desde 2010 as midias sociais com a finalidade de estreitar a comunicacao entre o Judiciario e o cidadao. O Departamento promove trabalhos a partir de diversas plataformas de midias sociais, seja com o Portal Institucional; fanpage no Facebook; perfil no Twitter, o noticiario eletronico no YouTube, o Canal TJAP Noticias; o site de galerias de fotos Flicker; o aplicativo Instagram para celulares; alem de producoes publicitarias sobre todos o eventos e acoes da Justica do Estado. Sempre utilizando uma linguagem clara e acessivel a todos, com transparencia, informacoes sobre o papel, as acoes e as iniciativas do Poder Judiciario no ambito social, o andamento processual, os atos judiciais e administrativos, os dados orcamentarios e de desempenho operacional. A Assessoria de Comunicacao Social vai alem da divulgacao dos fatos e das informacoes jornalisticas e institucionais. As acoes como comunicacao institucional contribuem para a aproximacao da populacao a Justica. Essa aproximacao e parte da politica de humanizacao do Judiciario adotada pela atual gestao. Isso permite que a divulgacao do trabalho e gestao do Judiciario faca com que toda a sociedade amapaense se sinta proxima da Justica. O fluxo de informacoes presentes no Portal do Tribunal de Justica, entre os magistrados e serventuarios de todas as Unidades do Poder Judiciario; alem da populacao amapaense, que acessa diariamente o Portal. Vale ressaltar que um dos objetivos principais da ASCOM/TJAP e estimular a participacao da sociedade no debate e na formulacao de politicas publicas que envolvam os seus direitos e, promover o Poder Judiciario junto a sociedade, de modo a conscientiza-la sobre a missao exercida pela Magistratura, em todos os seus niveis, incentivando a visao critica dos cidadaos a respeito da importancia da Justica como instrumento da garantia dos seus direitos e da paz social. A Assessoria de Comunicacao Social do Tribunal de Justica pode ser acionada no endereco eletronico:  Este endereco de email esta sendo protegido de spambots. Voce precisa do JavaScript ativado para ve-lo.  ou pelos telefones 3312-3320 e 3312-3118.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Transparencia e a palavra chave para comecar a definir uma das mais importantes unidade administrativa que compoem o Tribunal de Justica do Amapa: a Assessoria Tecnica de Controle Interno- ASTECIN. E nesta Assessoria que e realizado o trabalho de controle e fiscalizacao dos processos administrativos que tramitam no ambito do Tribunal, nas Comarcas, nos Juizados Especiais, ou seja, em toda estrutura administrativa do Poder Judiciario. A Assessoria Tecnica de Controle Interno esta diretamente subordinado a Presidencia do Tribunal de Justica do Amapa, e e sua missao e contribuir com o desenvolvimento e crescimento do Poder Judiciario do Estado do Amapa visando a racionalizacao, eficiencia, eficacia economicidade e legalidade das decisoes e projetos executados no ambito deste Tribunal. Sua Visao e atuar de forma independente e autonoma por meio de analise, consultas,pesquisas,diagnosticos e prognosticos na gestao administrativa, orcamentaria, financeira, patrimonial, de pessoal da Instituicao. O trabalho executado pela ASTECIN respalda o gestor para tomadas de decisoes com mais seguranca, verificando a legalidade e os principios basicos da Administracao Publica. A Assessoria de Controle Interno realiza fiscalizacoes, inspecoes e auditorias, propondo sempre recomendacoes aos gestores e trabalhando para o fortalecimento da estrutura do controle interno, a fim de auxiliar a Alta Gestao.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: A Secretaria de Gestao Processual Eletronica - SGPE, criada pela Lei no 1.376 de 07 de outubro de 2009, e a unidade organizacional do Tribunal de Justica do Estado do Amapa - TJAP, subordinada diretamente a Presidencia do Tribunal, responsavel por dirigir, supervisionar e coordenar todos os procedimentos relativos ao desenvolvimento, aperfeicoamento e aplicacao de sistemas de gestao processual eletronica do TJAP. A SGPE auxilia a Comissao de Assuntos Afetos ao Conselho Nacional de Justica (CNJ) e a Corregedoria-Geral de Justica na prestacao de informacoes estatisticas de processos e produtividade jurisdicional, entre as quais Justica em Numeros, Justica Aberta e Metas do CNJ. A Secretaria de Gestao Processual Eletronica e responsavel pelo servico de suporte aos servidores e Magistrados do TJAP, aos Promotores e Procuradores de Justica do Ministerio Publico Estadual, aos Procuradores do Estado do Amapa, aos advogados e aos jurisdicionados na utilizacao dos referidos sistemas. Atualmente os sistemas de gestao processual eletronica implantados no TJAP sao: Sistemas Tucujuris de 1o Grau, de 2o Grau, da Turma Recursal, da Central de Mandados, do Ministerio Publico, Tucujuris WEB, SisCustas e sistemas RENAJUD, BACENJUD, INFOJUD, iSTJ e Malote Digital. As atividades da Secretaria de Gestao Processual Eletronica tambem sao efetuadas conjuntamente com o Departamento de Sistemas - DESIS, o qual desenvolve e implanta todos os programas da familia Tucujuris, sob sua orientacao, e com o suporte tecnico do Departamento de Informatica. A comunicacao entre os usuarios dos varios sistemas e a Secretaria de Gestao Processual Eletronica e feita preferencialmente por meio do endereco de e-mail  Este endereco de email esta sendo protegido de spambots. Voce precisa do JavaScript ativado para ve-lo. . Este procedimento e necessario em razao do grande numero de usuarios atendidos pela SGPE. Quando um usuario solicita auxilio ou comunica um problema, o seu e-mail e cadastrado no programa SOS (sistema de ordem de servico), que gera automaticamente um numero de protocolo que e enviado para o email do usuario, que pode acompanhar o chamado ate a solucao. No ano de 2012 foram solucionados 6.228 chamados pela SGPE. Ainda em 2012 foram implantados os Juizados Virtuais com a utilizacao do Tucujuris Web, Tribuna Empresarial em parceria com o SEBRAE, instalacao do Banco Nacional de Mandados de Prisao em todas as Comarcas do Estado, o mandado eletronico para o Estado do Amapa, o oficio requisitorio de precatorio 100% eletronico com distribuicao automatica no 2o grau, entre outros. ",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Quando falamos em cerimonial, logo vem em mente, o sentido da formalidade que atividade profissional exige. Como em todos os tipos de eventos, a funcao do cerimonial e trabalhar a imagem da melhor maneira possivel, seja ela publica ou privada, e ate mesmo pessoal, sem que se quebre protocolos.  Para quem nao sabe, o cerimonial e regido pelo Decreto No 70.274, de 9 de marco de 1972, que tem como escopo, a aprovacao das normas do cerimonial publico e a ordem geral de precedencia, sancionada pelo entao Presidente da Republica Emilio Garrastazu Medici. O Decreto No 70.274 em seu Art. 1o e bem claro ao dizer: \"Sao aprovadas as normas do Cerimonial Publico e a Ordem Geral de Precedencia, anexas ao presente Decreto, que se deverao observar nas solenidades oficiais realizadas na Capital da Republica, nos Estados, nos Territorios Federais e nas Missoes Diplomaticas do Brasil\". O Decreto 70.274 e mais que uma Lei, e tambem o instrumento vital de suporte as atividades do Cerimonial brasileiro, afinal, ele assegura as prerrogativas de pessoas - revestidas pelos cargos e funcoes que exercem - e organizacoes - publicas e privadas que gravitam num mesmo sistema social - integrando-as em prol das relacoes humanas, sociais e interpessoais. Mais que a polemizacao, este instrumento se presta a politizacao do uso do Decreto No 70.274, propiciando aos Cerimonialistas o debate consolidado das praticas coerentes para o escorreito exercicio laboral de uma atividade que possui, em sua essencia, a precedencia. Eventos corporativos como posses de presidencia e de diretoria, inauguracoes, lancamentos de produtos e eventos, ficam mais interessantes e pomposos com um cerimonial bem elaborado e correto, e e por meio do cerimonial, que as instituicoes publicas, empresas e entidades de classe e outros, conseguem transmitir e comunicar poder, estabilidade, seguranca, atualidade e assim por diante. Imaginem uma instituicao, ao promover um evento, ter o cuidado com os detalhes, com a seguranca e com sua propria imagem institucional. Pois o cerimonial promove todo este trabalho institucional positivo para as entidades em geral. No Poder Judiciario amapaense, o Departamento de Cerimonial e o responsavel por planejar, organizar e coordenar a realizacao dos eventos promovidos pela Justica do Amapa, e todos os atos protocolares para as reunioes solenes, especiais, comemorativas e, as destinadas as homenagens. Outra atividade desenvolvida pela equipe de cerimonialistas do TJAP e a organizacao de seminarios, simposios, congressos, palestras e audiencias de interesse da Corte, alem de auxiliar na organizacao de visitas oficiais e recepcao de autoridades. O Departamento de Cerimonial do TJAP, tambem executa outras atividades que fogem ao rito da funcao, como por exemplo, dar o apoio administrativo necessario para um bom desempenho de diversas funcoes do Presidente, Vice-Presidente, Corregedor-Geral e demais Desembargadores do Tribunal de Justica do Amapa.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Assessorar a Presidencia do Tribunal de Justica do Amapa e um dos objetivos da Assessoria de Planejamento e Organizacao da instituicao. Em razao de sua importancia, a ASPLAN desenvolve, dentre outros, um conjunto de trabalhos alinhados aos propositos, objetivos, estrategias, politicas, programas, orcamentos, normas e procedimentos norteados pela Alta Gestao Responsavel em criar cenarios que irao definir as acoes necessarias ao enfrentamento de situacoes futuras, essa unidade tem a responsabilidade de colaborar para a materializacao dos planos de acao institucional, que resultarao em maiores beneficios a prestacao de servicos aos cidadaos que se encontram em todas as localidades do Estado, sem discriminacao e, dessa forma, vem contribuindo para ampliar a confianca e a aproximacao da sociedade ao Poder Judiciario estadual.  O cumprimento das metas da ASPLAN esta focado, antes de tudo, na missao, visao e atributos de valor do Judiciario estadual. E nesse espirito, sob os encaminhamentos da Diretoria-Geral da instituicao, executa as acoes do Judiciario com a colaboracao e o apoio dos departamentos e demais assessorias do Tribunal.  No conjunto de acoes desenvolvidas estao: a participacao na elaboracao do plano plurianual do Judiciario amapaense; acompanhar a elaboracao das diretrizes orcamentarias estadual; elaborar a proposta orcamentaria da Justica estadual; consolidar e encaminhar ao Conselho Nacional de Justica os dados estatisticos referentes ao programa Justica em Numeros e o cumprimento das acoes do Poder Judiciario local, inerentes as metas nacionais de nivelamento.  Outras atividades gerenciadas pela Assessoria de Planejamento e Organizacao dizem respeito aos projetos fomentados com recursos federais, e os projetos estimulados com recursos do Fundo e Apoio aos Juizados da Infancia e Juventude - FAJIJ, dentre outras inerentes ao dia a dia.  E com essa missao que a Assessoria de Planejamento do TJAP tem atuado e trabalha sempre no sentido de dar o melhor direcionamento aos pleitos do Judiciario. ",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: O Departamento de Gestao de Pessoas (DEGESP), que por muitos anos foi conhecido como Departamento de Recursos Humanos, e responsavel pela vida funcional dos magistrados, servidores, estagiarios e colaboradores do Tribunal de Justica do Amapa. Questoes relacionadas a admissao, licencas, cadastros, acompanhamento de desempenho e gerenciamento de pagamentos sao todas executadas com muito afinco pelo DEGESP. A equipe do DEGESP e formada por servidores efetivos, comissionados, estagiarios e bolsistas. O Departamento conta com quatro Divisoes: Divisao de Magistrados, Divisao de Acompanhamento e Desenvolvimento de Pessoal, Divisao de Cadastro e Legislacao e Divisao de Folha de Pagamento. A Divisao de Magistrados e responsavel por cuidar exclusivamente da admissao, acompanhamento de desempenho e agendamento de licencas, ferias e aposentadoria de desembargadores e juizes. A Divisao de Acompanhamento e Desenvolvimento de Pessoal faz a admissao dos servidores, estagiarios e bolsistas alem de acompanhar o desempenho e a progressao funcional dos servidores efetivos do TJAP. Tambem em parceria com a Escola Judicial do Amapa sugere cursos de capacitacao para seus colaboradores. Nessa unidade estao vinculadas as atividades do Servico Medico e Servico Social, na realizacao de campanhas que visem os cuidados com a saude e bem estar. A Divisao de Cadastro e Legislacao e responsavel pelo gerenciamento de dados cadastrais de todos aqueles que atuam na Justica Amapaense. E responsavel tambem por instruir e em alguns casos encaminhar para o Departamento Juridico processos como o de pedidos de ferias, licencas medicas, pedidos de substituicao e licenca premio. E por ultimo, a Divisao de Folha de Pagamento, onde sao feitas as projecoes e a relacao de pagamento mensal dos trabalhadores do Judiciario amapaense.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Criada no ano de 2011, a Secretaria Especial de Precatorios e um orgao vinculado a Presidencia do Tribunal de Justica do Amapa. E nela que tramitam as requisicoes de pagamento de uma quantia certa devida por determinado ente publico ou suas autarquias e fundacoes em virtude de decisao judicial condenatoria definitiva. Entenda como funciona: Apos a finalizacao do processo no Juizo de 1o Grau, ou no ultimo grau pelo qual tramitou, o feito volta ao 1o grau, cujo juiz encaminha ao Presidente do Tribunal de Justica um Oficio no qual descrevera todos os dados do processo de execucao. Por sua vez, o Presidente do Tribunal de Justica, requisitara o pagamento ao ente publico, que colocara o valor no orcamento do Estado, para o exercicio seguinte. O total dos valores de precatorios a ser pago sera colocado no orcamento de cada ente devedor para o devido pagamento de acordo com a Emenda Constitucional n.o 62/2009. Por meio do Sistema \"TUCUJURIS\" ha uma maior transparencia na tramitacao e no pagamento desses precatorios, pois todos os processos possuem o numero unico da Justica, o que proporciona uma maior visibilidade aos interessados e ao CNJ. A equipe da Secretaria de Precatorios do TJAP, coordenada pelo Juiz Auxiliar da Presidencia, conta com Assessoria juridica, Contadores, Diretor e Tecnicos Judiciarios. E responsavel em gerenciar mais de 2.400 processos de precatorios, todos organizados em uma Lista Unica, que obedecem a ordem cronologica e a natureza dos creditos (doenca grave, idade, alimentar e comum), conforme seja a situacao na qual se enquadre o credor. Sob a orientacao do Conselho Nacional de Justica, que levou em conta que a divida dos Entes Publicos e de alta monta, e por conta disso, o controle desses valores necessitava de tratamento mais rigoroso, alem de um pagamento mais efetivo e organizado, foi editada pelo Congresso Nacional a Emenda Constitucional no 62/2009, seguida de resolucao do CNJ que disciplina a materia, e obriga todos os Tribunais dos Estados a criar orgaos especificos para administrar esses requisitorios.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: O termo \"Camara\" pode-se entender como sendo um Orgao Colegiado do Tribunal de Justica que reune mais de uma Turma para julgar os processos de competencia originaria e os em grau recursal, conforme estabelecido no Regimento Interno do TJAP. A Camara Unica e composta por todos os Desembargadores, a excecao do Presidente e do Corregedor-Geral do Tribunal. E presidida pelo Vice-Presidente, , na sua ausencia, pelo Desembargador mais antigo entre os presentes. O quorum para o funcionamento da Camara Unica e de apenas tres Desembargadores, desde que os presentes, possam integrar a composicao de julgamento. As sessoes ordinarias da Camara Unica ocorrem todas as tercas-feiras, salvo no periodo do recesso, e as sessoes extraordinarias mediante convocacao especial pelo seu Presidente. Compete a Camara Unica, processar e julgar, originariamente, conflitos de atribuicoes entre autoridades judiciarias e administrativas estaduais ou municipais e mandados de injuncao, respeitada a competencia do Tribunal Pleno. Cabe tambem, julgar em grau recursal, apelacoes civeis e criminais; agravos; embargos de declaracao de seus acordaos; agravos regimentais contra decisoes de relator em feitos afetos a sua competencia; recursos de habeas-corpus julgados na primeira instancia; recursos em sentido estrito; remessas e recursos de oficio; cartas testemunhaveis; e correicoes parciais ou reclamacoes, entre outras atribuicoes. A Secretaria da Camara Unica atende diretamente ao publico: advogados e partes interessadas nas informacoes sobre processos, no horario das 7h30 as 17h30 sem intervalo para almoco. Quanto ao protocolo de peticoes e recursos obedece ao horario de expediente externo: das 07h30 as 14h30.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: A Seccao Unica e um orgao de jurisdicao de 2o grau, composto por todos os Desembargadores, e e presidida pelo Vice-Presidente , na sua ausencia, pelo Desembargador mais antigo entre os presentes.  O Presidente do Tribunal e o Corregedor-Geral, somente participam das Sessoes quando tem feitos a eles distribuidos em situacoes excepcionais, de acordo com o Regimento Interno do TJAP. As sessoes da Seccao Unica acontecem duas vezes por mes, sempre as quintas feiras, onde sao julgadas materias de sua competencia, como Mandado de seguranca e habeas data, quando a autoridade informante for Juiz de Direito; Habeas corpus quando o coator for Juiz de Direito ou membro do Ministerio Publico; Acao rescisoria, ressalvada a competencia do Pleno; Revisao Criminal, ressalvada a competencia do Pleno; Pedido de desaforamento; Suspeicao oposta ao Juiz; Embargos de declaracao contra julgados da Seccao; Embargos infringentes e Agravo Regimental. Os feitos sao distribuidos em rodizio aos seus membros, obedecendo ao criterio de antiguidade. Apenas sao distribuidos ao Presidente e ao Corregedor nos casos de prevencao.  Na Secretaria da Seccao Unica, sao realizados os andamentos processuais referentes aos processos de competencia do orgao, dentre os quais: a elaboracao de documentos indispensaveis a instrucao e cumprimentos das ordens emanadas; elaboracao das pautas de julgamento das sessoes ordinarias e extraordinarias; intimacao das partes e advogados dos processos; controle de prazos processuais; elaboracao de estatisticas, bem como, todos os tramites necessarios ao regular andamento do processo. Os processos de competencia desta Secretaria podem ser consultados no site do TJAP, pelo Sistema TUCUJURIS 2o GRAU, com excecao daqueles que correm em segredo de justica, que somente as partes e Advogados podem ter acesso. Todos os servidores da Seccao Unica buscam atuar com total responsabilidade e agilidade, colaborando para efetivar os Mandamentos e Direitos Fundamentais Constitucionais da Razoavel Duracao do Processo e da Celeridade Processual. ",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Executar as ordens judiciais advindas dos Desembargadores por meio de acordaos e decisoes, por eles proferidos. Esse e o principio basico para o desempenho dos trabalhos exercidos pela Secretaria do Pleno do Tribunal de Justica do Amapa.As especificidades nas atribuicoes fazem parte deste departamento. Pois e nele que comeca o julgamento das acoes originarias, conflitos entre magistrados das varas civeis e criminais e, crimes de foro privilegiados. A Sessao Ordinaria, que e realizada todas as quartas-feiras, julga os meritos das acoes de competencia do Pleno. Ja a Sessao Extraordinaria, quando convocada, so acontece quando ha um numero relevante de julgamentos pendentes. E para haver Sessao, e necessaria a presenca de dois tercos do Colegiado. Qualquer cidadao ou cidada pode ter acesso as informacoes sobre processos que tramitam no ambito do Tribunal, exceto as que exigem, por lei, segredo de justica. Para ter acesso aos processos e simples e rapido: basta acessar o Sistema TUCUJURIS. Para o servidor, o sistema traz o beneficio da celeridade no cumprimento das decisoes e despachos proferidos pelos Desembargadores.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre o Departamento de Informatica e Telecomunicacoes (DEINTEL) do TJAP\n<bot>: O Departamento de Informatica e Telecomunicacoes (DEINTEL) e responsavel pela infraestrutura da tecnologia de informacao e comunicacao, qualidade de atendimento e governanca de TIC. E uma  engrenagem essencial para o pleno funcionamento da maquina do Poder Judiciario Amapaense. Atraves de uma infraestrutura adequada, o Departamento tem por objetivo acelerar a virtualizacao dos processos judiciais e administrativos. Para tanto conta com um grupo de colaboradores do mais alto nivel tecnico, extremamente profissionais, forjados pela sede de apresentar resultados que impulsionam a Justica Amapaense a posicao de mais celere de todo o territorio nacional. O DEINTEL esta organizado nas seguintes unidades funcionais Telecom, Banco de Dados, Servidores, Seguranca, Service Desk, Autoridade de Registro, Infraestrutura e Governanca. UNIDADE DE TELECOM- e a Unidade Gerencial do Departamento de Informatica e Telecomunicacoes, responsavel por manter gestoes de servicos como: Links de Comunicacao de Dados e Servicos de Telefonia Os Servicos de Links de Comunicacao de Dados servem para prover a troca de Informacoes (Dados, Voz e Video) entre a Sede do TJAP e Unidades Judiciais e Administrativas da Capital e do Interior. UNIDADE DE BANCO DE DADOS- As informacoes geradas pelos Sistemas Administrativos e Judiciais (1o e 2o grau) formam um ativo primordial a Justica Amapaense. Esses dados sao armazenados em bases alocadas de forma descentralizada nas diversas Unidades Judiciais e Administrativas por todo Estado, formando as Bases de Dados. A unidade gerencial de Banco de Dados, tem como sua principal responsabilidade a de administrar essas informacoes e os servicos relacionados aos SGBD`s (Sistemas de Gerenciamento de Banco de Dados), garantindo a sua integridade, a sua autenticidade e a sua disponibilidade. UNIDADE DE SERVIDORES- A Unidade de Servidores tem como uma de suas mais importantes responsabilidades de tornar disponiveis, atraves de uma infraestrutura de TIC adequada a uma demanda crescente, os servicos providos pelos computadores servidores do Tribunal de Justica, possibilitando acesso agil e constante aos sistemas administrativos e judiciais, tanto para seus usuarios internos, ou seja, os Serventuarios e Magistrados, bem como tambem aos usuarios externos, operadores do direito e a populacao em geral, atraves do Portal do TJAP. Os principais servicos geridos por essa unidade sao: controle de acesso a Internet, e-mail, arquivos institucionais (armazena), autenticacao dos usuarios na rede, controle de acesso ao portal ( /portal/../ www.tjap.jus.br ), dentre outros. UNIDADE DE SEGURANCA- A Unidade de Seguranca tem como finalidade a protecao das informacoes judiciarias da sociedade, que sao tuteladas pelo Tribunal de Justica. Esta unidade tem diversos desafios para o cenario a qual esta inserida, mas principalmente a de manter o acesso as informacoes sensiveis fora do alcance de pessoas mal intencionadas, que se utilizando das facilidades providas pelos beneficios tecnologicos implantados, tentam causar danos as mesmas e a imagem desta instituicao perante a sociedade. UNIDADE DE SERVICE DESK- O Service Desk e uma unidade gerencial cujo objetivo e garantir o funcionamento das operacoes de TIC, atraves da prestacao de servico de instalacao de hardware e software necessarios a todos os Magistrados e Servidores. Tem tambem como funcao realizar suportes tecnicos de 1o e 2  niveis, que perfazem os atendimentos remotos e presenciais de baixa e media complexidade, aos usuarios de TIC, nas diversas areas do ambiente computacional da Justica do Amapa, como: microcomputadores, impressoras, scanner, sistemas operacionais, aplicativos, configuracoes e manutencoes de hardwares, suporte a redes de computadores, dentre outros. AUTORIDADE DE REGISTRO- Uma Autoridade de Registro (AR) e uma entidade operacionalmente vinculada a uma AC (Autoridade de Certificadora), que e responsavel pela interface entre os usuarios e a AC, e tem por objetivo o recebimento, validacao, encaminhamento de solicitacoes de emissao ou revogacao de Certificados Digitais, Identificando de forma presencial seus solicitantes e mantendo registros de suas operacoes em local protegido com acesso restrito. \"Um Certificado Digital e um arquivo eletronico de identificacao de pessoa fisica ou juridica, ou seja, e um Documento Eletronico de Identidade pessoal e intransferivel\". UNIDADE DE INFRAESTRUTURA- O setor de infraestrutura e responsavel por disponibilizar o meio fisico, assim como os equipamentos para que seja estabelecido o enlace de comunicacao de dados entre as unidades da rede corporativa do TJAP. Esta sob a responsabilidade deste setor o projeto, a aquisicao, a implantacao, o monitoramento e a manutencao dos seguintes servicos/equipamentos, para todas as unidades judiciarias e administrativas: a aquisicao de ativos de redes de comunicacao indoor e outdoor (switchs); cabeamento estruturado metalico e de fibra optica das unidades judiciarias; sistema de videomonitoramento do predio sede do TJAP e do Forum de Macapa; sistema de enlace de radios indoor e outdoor nas e entre as unidades judiciarias e administrativas do TJAP. \"Projetos de infraestrutura futuros apontam para a necessidade de projeto de um Site Backup, replica fiel do datacenter do TJAP, no Forum de Macapa e um novo datacenter no futuro predio do Centro Tecnologico\". UNIDADE DE GOVERNANCA DE TIC- Esta unidade gerencial tem por objetivo agregar, coordenar, desenvolver competencias e habilidades voltadas ao planejamento, implantacao, controle e monitoramento de programas e projetos na area de TIC, alinhados aos objetivos estrategicos do Tribunal de Justica. A Governanca de TIC compreende, basicamente, o conjunto de praticas e padroes com a finalidade de garantir controles efetivos, ampliar a seguranca, diminuir os riscos, melhorar o desempenho, racionalizar os recursos, reduzir os custos, tudo isso voltado as necessidades da Administracao. Ao longo dos ultimos 23 anos, o Tribunal de Justica do Amapa, atraves de uma visao de vanguarda de todos os seus dirigentes maximos, tem aportado e garantindo recursos que asseguram a manutencao e ampliacao da estrutura tecnologica de informatica da Justica em todo o Estado.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre o Departamento Administrativo(DA) do TJAP\n<bot>: Ele e o coracao da administracao do poder Judiciario Amapaense. Assim pode ser chamado o DA (Departamento Administrativo). Subordinado a Diretoria-Geral, o setor desenvolve trabalhos voltados a construcao de predios, manutencao de veiculos; compra de materiais do dia a dia; servicos de limpeza e manutencao; reformas nas Unidades do Judiciario; gerencia os bens que foram adquiridos por licitacao; distribui materiais de escritorio para os Foruns, sede e Comarcas. Para melhor administrar e executar as suas atribuicoes, o Departamento Administrativo encontra-se estruturado com as seguintes Divisoes : Divisao de Engenharia e Fiscalizacao, que tem o objetivo de desenvolver projetos arquitetonicos, urbanisticos, projetos de construcao de predios e a fiscalizacao das obras em andamento. Divisao de Garagem, Arquivo e Deposito, que e responsavel pela manutencao de veiculos, arquivamentos de processos e documentos que sao ditos como \"arquivos mortos\". Divisao de Gestao de Patrimonio, responsavel por distribuir, controlar, registrar todos os equipamentos que sao adquiridos por licitacao. Divisao de Material, tendo a responsabilidade de gerir e distribuir materiais de escritorio. Divisao de Servicos Gerais, responsavel por coordenar os motoristas que prestam servicos a Justica do Amapa, gerenciando tambem uma equipe que tem a finalidade de fazer reparos nos predios do Tribunal de Justica. Um dos exemplos dos servicos acompanhados pelo Departamento Administrativo foi a construcao do predio do Forum da Comarca de Laranjal do Jari e a instalacao dos detectores de metais no predio Sede do TJAP, nos Foruns de Macapa, de Santana e de Laranjal do Jari. O Departamento Administrativo funciona agora no predio recem-inaugurado da Justica Estadual localizado na Rua Tiradentes no 62, esquina com a Avenida Raimundo Alvares da Costa.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre A Diretoria-Geral do TJAP\n<bot>: A Diretoria-Geral e a unidade responsavel por inumeras atividades no ambito do Poder Judiciario do Estado do Amapa, sendo que entre as suas competencias destacam-se a implementacao e coordenacao dos macros objetivos constantes do Planejamento Estrategico do TJAP, com foco na missao, visao e seus valores institucionais.  O modelo de gestao adotado pelo Tribunal permite a Diretoria-Geral interagir sistematicamente com as demais unidades administrativas e jurisdicionais que o compoem, no sentido de contribuirem para o desenvolvimento de suas atividades e, assim, potencializarem oportunidades e reduzirem riscos para o alcance da missao do Judiciario Amapaense e oferecer a sociedade um servico judicial de qualidade. As decisoes estrategicas lideradas pela Diretoria-Geral estao pautadas no Plano de Trabalho da Alta Gestao, apresentado por ocasiao da posse do Desembargador- Presidente. Assim, as acoes constantes do Plano de Trabalho inerentes a prestacao jurisdicional, a politicas de gestao administrativa, gestao de pessoas, orcamento, financas, contratos, convenios, termos de cooperacao e outros instrumentos similares, sao coordenadas pela Diretoria-Geral. Despesas essas, correntes ou de capital, sao submetidas a ratificacao ou nao da Presidencia.   Nesse sentido, a Diretoria-Geral mantem esforcos para o gerenciamento racional dos recursos organizacionais, na coordenacao e fiscalizacao e na implementacao de programas, projetos e atividades, necessarias a consolidacao de acoes com vistas a materializacao dos objetivos, diretrizes e metas que proporcionarao uma prestacao jurisdicional, celere, segura e eficaz. No que diz respeito a concepcao do orcamento, coordena por meio das unidades setoriais a elaboracao da Proposta Orcamentaria do Poder Judiciario, encaminhando-a ao Poder Executivo para consolidacao, apos sua aprovacao pelo Pleno Administrativo. Sendo que, as solicitacoes de creditos adicionais, os balancos orcamentarios, financeiros, patrimoniais e as tomadas de contas sao submetidos ao conhecimento e deliberacao do Gestor Maximo para posterior encaminhamento aos orgaos competentes. Programar, executar, acompanhar e avaliar o desempenho do Plano de Trabalho do TJAP, com suporte em parametros previamente definidos, identificando eventuais desvios e promovendo as correcoes necessarias, sao acoes rotineiras da Diretoria-Geral, num processo de atuacao sistemica com as Unidades Administrativas e Jurisdicionais que compoem o Poder Judiciario do Estado do Amapa.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre o DEPARTAMENTO DE SISTEMAS do TJAP\n<bot>: O DEPARTAMENTO DE SISTEMAS, Orgao do Tribunal de Justica do Estado do Amapa subordinado administrativamente a Diretoria Geral, foi criado no ano de 2009, atraves do projeto de Lei 1376/2009 de 7 de outubro/2009, desmembrado do atual Departamento de Informatica e Telecomunicacoes - DEINTEL, onde possuia status de Divisao de Desenvolvimento de Softwares. Com a crescente demanda no desenvolvimento de softwares no TJAP, principalmente com a necessidade emergente de se instalar o processo virtual na Justica do Amapa, como forma de tornar a atividade jurisdicional mais celere e agil, bem como a automatizacao e integracao dos procedimentos administrativos, tornou-se necessario que a equipe de desenvolvimento de softwares tivesse sua autonomia funcional, como forma de poder alavancar os trabalhos com poder de tomada de decisao, e assim fluir com a execucao plena das atividades. Como forma de auxilio e orientacao dos trabalhos executados no Departamento de Sistemas, foram tambem criados as Comissoes, tanto administrativas quanto judiciarios, cuja a interoperabilidade muito veio a contribuir no desenvolvimento dos aplicativos que auxiliam as atividades internas da Justica, quanto a sociedade em geral. A forma de atuacao das Comissoes se da atraves de levantamento e mapeamento de requisitos tecnicos dos procedimentos a serem informatizados e a partir de entao, a discussao com o Diretor da area da equipe, que por sua vez apura e analisa os mesmos conjuntamente com a equipe tecnica, ocasionando assim a decomposicao em procedimentos operacionais distribuidos para desenvolvimento de produtos, que apos sua conclusao, sao liberados para homologacao das Comissoes, so para apos ir para linha de producao. De forma a melhor distribuir os trabalhos no Departamento de Sistemas, como meio de otimizar o gerenciamento e o desenvolvimento das atividades, foram criados as Divisoes Administrativas e Judiciarias, atraves do qual sao produzidos os softwares de acordo com a necessidade de cada area. Cada Divisao do Departamento e gerido por um Diretor, responsaveis pela organizacao, gerenciamento e producao dos servicos dentro das respectivas areas, sendo que em sua composicao, de forma a consolidar a execucao das tarefas, estao ai inseridos Assessores em Tecnologia da Informcao, gerentes de Projetos de Informatica, Analistas, Programadores e Estagiarios, a qual descrevemos as atribuicoes a seguir: E de responsabilidade do Departamento de Sistemas, toda a implementacao e manutencao dos aplicativos de Internet, englobando ai o Portal do TJAP, que disponibiliza servicos e informacoes ao publico externo, e a Intranet, que disponibiliza servicos as areas internas, sendo que a responsabilidade de alimentacao das informacoes a serem disponibilizadas sao de inteira responsabilidade de cada area envolvida no processo. Ressalta-se ainda que, todos os servicos desenvolvidos e disponibilizados pelo TJAP, tanto em sua rede corporativa quanto na Internet, sao totalmente desenvolvidos localmente, com recursos e mao-de-obra propria, de responsabilidade do Departamento de Sistemas, inclusive o Software \"TUCUJURIS - Processo Judicial Eletronico\", que oferta apoio operacional aos diversos segmentos da area judiciaria, inclusive contando com a implantacao de Unidades totalmente Virtuais. O departamento de Sistemas, alem de prover a infraestrutura de software necessaria para o gerenciamento funcional da Justica do Amapa, desenvolveu e presta manutencao em diversos aplicativos, que visam a atender Unidades Externas que se locupletam da rede, com interacao direta no Sistema Tucujuris via WEB, dentre os quais, o Ministerio Publico, a OAB e a Fazenda Estadual.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre a Comissao de Licitacao e Cadastro do TJAP\n<bot>: Criada em 2002, por meio da Lei Estadual no 726, a Comissao de Licitacao e Cadastro do Tribunal de Justica do Amapa, que e constituida por 10 agentes publicos, com a colaboracao de um estagiario e dois bolsistas, que conduzem os trabalhos para futuras contratacoes. A CLC tem a responsabilidade de receber, examinar e julgar todos os documentos e procedimentos relativos ao cadastramento de licitantes e as licitacoes de obras e servicos nas modalidades: Concorrencia, Tomada de Precos, Convite e Pregao.  Segundo o coordenador da Comissao, Glaucio Maciel Bezerra, o Tribunal de Justica do Amapa sempre buscou dar mais celeridade as contratacoes de bens e servicos, para que a Instituicao desenvolva suas atividades de acordo com a demanda do Estado, com qualidade. Foi ai que o Pregao Eletronico se encaixou como uma luva, para os padroes exigidos pela Justica do Amapa. Cerca de 95% das contratacoes sao realizadas por meio de Pregao Eletronico, devido o  acesso e participacao de mais empresas, de qualquer lugar do Pais, com mais economia e transparencia. Basta acessar a internet. Tudo isso traz muita agilidade e desburocratiza todo o processo\", ressaltou. No Tribunal de Justica do Amapa, todas as licitacoes sao divulgadas na pagina do orgao na internet e no Diario da Justica Eletronico (DJe). Alem desses meios, e utilizado tambem para o Pregao Eletronico, o \"Sistema Licitacoes-e\". E Uma especie de bolsa, onde o TJAP pode obter propostas das empresas em geral, para suas aquisicoes e contratacoes e, para isso basta acessar:  http://www.licitacoes-e.com.br/ www.licitacoes-e.com.br .",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre o DECONF (Depto. de Contabilidade, Orcamento e Financas) do TJAP\n<bot>: Criado em 2005, apos a cisao do antigo DECONF (Depto. de Contabilidade, Orcamento e Financas), o DEFIN agrega dois setores importantes para o bom andamento da maquina administrativa do Judiciario estadual: o orcamentario e o financeiro.  Ele e responsavel pelos recebimentos de recursos de repasses federais e estaduais e, tambem, todos os pagamentos administrativos efetuados pelo Tribunal, como por exemplo, salarios e dos contratos de fornecedores. O Departamento de Orcamento e Financas exerce duas atividades bem distintas. O orcamentario, que se encarrega, dentre outras, da Liquidacao da Despesa, ou seja, checar se o servico contratado pela instituicao foi prestado/cumprido, se o produto adquirido foi fornecido como prometido, a qualidade da documentacao fiscal, e se o valor a pagar corresponde corretamente ao contratado; alem de rotinas de acompanhamento da execucao orcamentaria, programacao de despesas, e auxilio na elaboracao da Proposta Orcamentaria. Ja o financeiro, tem a funcao de fazer o Pagamento da Despesa, ou seja, transferencias bancarias para fornecedores do Tribunal, confirmar transferencias de transacoes bancarias, arquivar, movimentar saldos e extratos bancarios, fazer encontro/conciliacao de contas, elaborar o fluxo de caixa e, apresentar o balanco financeiro. Mas, para que toda essa engrenagem funcione com rapidez e seguranca, a Justica Estadual, utiliza o Sistema de Pagamentos Brasileiro - SPB, atraves dos programas disponibilizados pelos Bancos (\"cliente-servidor\" e \"web\"), que e um conjunto de procedimentos, regras, instrumentos e operacoes integrados entre os Bancos, que, por meio eletronico, dao suporte a movimentacao financeira das Instituicoes. Tudo isso resulta em maior protecao quanto a gestao/utilizacao dos Recursos, evitando desvios de dinheiro publico, aplicacao inadequada, ou qualquer tipo de fraude. Segundo informacao do proprio departamento, no Tribunal de Justica nao se movimenta dinheiro em especie em momento algum. Todo e qualquer tipo de pagamento e feito atraves do SPB, ou operacoes nos sistemas individuais de cada Banco. Isso, alem de garantir 100% de transparencia e seguranca, agiliza a liberacao de recursos, facilita a prestacao de contas, e a comprovacao de gastos. O Poder Judiciario do Amapa mantem com essa eficaz metodologia administrativa, desempenhada pelo Departamento, a manutencao do pagamento em dia de suas obrigacoes, o que garante o bom relacionamento com seus fornecedores e, tambem, evita o acumulo de dividas para o erario. Todo esse empenho em dar um agil atendimento gera credibilidade do Judiciario amapaense perante a sociedade, refletida, por exemplo, na grande quantidade de participantes de processos licitatorios, sempre em numero expressivo, o que mostra a confianca na Instituicao. Qualquer pessoa ou fornecedor pode fazer consulta online para saber sobre o andamento dos seus pagamentos a receber. Para isso, basta acessar o Portal da Transparencia do Tribunal de Justica do Amapa.  /portal/transparencia.html /portal/transparencia.html",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre a Assessoria de Comunicacao do TJAP\n<bot>: Assessoria de Comunicacao do TJAP: o Link de informacoes e aproximacao do Judiciario com a populacao amapaense. A Justica do Amapa, por meio da Resolucao 85 do Conselho Nacional de Justica (CNJ), que orienta as acoes de Comunicacao Social, adere desde 2010 as midias sociais com a finalidade de estreitar a comunicacao entre o Judiciario e o cidadao. O Departamento promove trabalhos a partir de diversas plataformas de midias sociais, seja com o Portal Institucional; fanpage no Facebook; perfil no Twitter, o noticiario eletronico no YouTube, o Canal TJAP Noticias; o site de galerias de fotos Flicker; o aplicativo Instagram para celulares; alem de producoes publicitarias sobre todos o eventos e acoes da Justica do Estado. Sempre utilizando uma linguagem clara e acessivel a todos, com transparencia, informacoes sobre o papel, as acoes e as iniciativas do Poder Judiciario no ambito social, o andamento processual, os atos judiciais e administrativos, os dados orcamentarios e de desempenho operacional. A Assessoria de Comunicacao Social vai alem da divulgacao dos fatos e das informacoes jornalisticas e institucionais. As acoes como comunicacao institucional contribuem para a aproximacao da populacao a Justica. Essa aproximacao e parte da politica de humanizacao do Judiciario adotada pela atual gestao. Isso permite que a divulgacao do trabalho e gestao do Judiciario faca com que toda a sociedade amapaense se sinta proxima da Justica. O fluxo de informacoes presentes no Portal do Tribunal de Justica, entre os magistrados e serventuarios de todas as Unidades do Poder Judiciario; alem da populacao amapaense, que acessa diariamente o Portal. Vale ressaltar que um dos objetivos principais da ASCOM/TJAP e estimular a participacao da sociedade no debate e na formulacao de politicas publicas que envolvam os seus direitos e, promover o Poder Judiciario junto a sociedade, de modo a conscientiza-la sobre a missao exercida pela Magistratura, em todos os seus niveis, incentivando a visao critica dos cidadaos a respeito da importancia da Justica como instrumento da garantia dos seus direitos e da paz social. A Assessoria de Comunicacao Social do Tribunal de Justica pode ser acionada no endereco eletronico:  Este endereco de email esta sendo protegido de spambots. Voce precisa do JavaScript ativado para ve-lo.  ou pelos telefones 3312-3320 e 3312-3118.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre a Assessoria Tecnica de Controle Interno- ASTECIN do TJAP\n<bot>: Transparencia e a palavra chave para comecar a definir uma das mais importantes unidade administrativa que compoem o Tribunal de Justica do Amapa: a Assessoria Tecnica de Controle Interno- ASTECIN. E nesta Assessoria que e realizado o trabalho de controle e fiscalizacao dos processos administrativos que tramitam no ambito do Tribunal, nas Comarcas, nos Juizados Especiais, ou seja, em toda estrutura administrativa do Poder Judiciario. A Assessoria Tecnica de Controle Interno esta diretamente subordinado a Presidencia do Tribunal de Justica do Amapa, e e sua missao e contribuir com o desenvolvimento e crescimento do Poder Judiciario do Estado do Amapa visando a racionalizacao, eficiencia, eficacia economicidade e legalidade das decisoes e projetos executados no ambito deste Tribunal. Sua Visao e atuar de forma independente e autonoma por meio de analise, consultas,pesquisas,diagnosticos e prognosticos na gestao administrativa, orcamentaria, financeira, patrimonial, de pessoal da Instituicao. O trabalho executado pela ASTECIN respalda o gestor para tomadas de decisoes com mais seguranca, verificando a legalidade e os principios basicos da Administracao Publica. A Assessoria de Controle Interno realiza fiscalizacoes, inspecoes e auditorias, propondo sempre recomendacoes aos gestores e trabalhando para o fortalecimento da estrutura do controle interno, a fim de auxiliar a Alta Gestao.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre A Secretaria de Gestao Processual Eletronica - SGPE do TJAP\n<bot>: A Secretaria de Gestao Processual Eletronica - SGPE, criada pela Lei no 1.376 de 07 de outubro de 2009, e a unidade organizacional do Tribunal de Justica do Estado do Amapa - TJAP, subordinada diretamente a Presidencia do Tribunal, responsavel por dirigir, supervisionar e coordenar todos os procedimentos relativos ao desenvolvimento, aperfeicoamento e aplicacao de sistemas de gestao processual eletronica do TJAP. A SGPE auxilia a Comissao de Assuntos Afetos ao Conselho Nacional de Justica (CNJ) e a Corregedoria-Geral de Justica na prestacao de informacoes estatisticas de processos e produtividade jurisdicional, entre as quais Justica em Numeros, Justica Aberta e Metas do CNJ. A Secretaria de Gestao Processual Eletronica e responsavel pelo servico de suporte aos servidores e Magistrados do TJAP, aos Promotores e Procuradores de Justica do Ministerio Publico Estadual, aos Procuradores do Estado do Amapa, aos advogados e aos jurisdicionados na utilizacao dos referidos sistemas. Atualmente os sistemas de gestao processual eletronica implantados no TJAP sao: Sistemas Tucujuris de 1o Grau, de 2o Grau, da Turma Recursal, da Central de Mandados, do Ministerio Publico, Tucujuris WEB, SisCustas e sistemas RENAJUD, BACENJUD, INFOJUD, iSTJ e Malote Digital. As atividades da Secretaria de Gestao Processual Eletronica tambem sao efetuadas conjuntamente com o Departamento de Sistemas - DESIS, o qual desenvolve e implanta todos os programas da familia Tucujuris, sob sua orientacao, e com o suporte tecnico do Departamento de Informatica. A comunicacao entre os usuarios dos varios sistemas e a Secretaria de Gestao Processual Eletronica e feita preferencialmente por meio do endereco de e-mail  Este endereco de email esta sendo protegido de spambots. Voce precisa do JavaScript ativado para ve-lo. . Este procedimento e necessario em razao do grande numero de usuarios atendidos pela SGPE. Quando um usuario solicita auxilio ou comunica um problema, o seu e-mail e cadastrado no programa SOS (sistema de ordem de servico), que gera automaticamente um numero de protocolo que e enviado para o email do usuario, que pode acompanhar o chamado ate a solucao. No ano de 2012 foram solucionados 6.228 chamados pela SGPE. Ainda em 2012 foram implantados os Juizados Virtuais com a utilizacao do Tucujuris Web, Tribuna Empresarial em parceria com o SEBRAE, instalacao do Banco Nacional de Mandados de Prisao em todas as Comarcas do Estado, o mandado eletronico para o Estado do Amapa, o oficio requisitorio de precatorio 100% eletronico com distribuicao automatica no 2o grau, entre outros. ",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre o Departamento de Cerimonial do TJAP\n<bot>: Quando falamos em cerimonial, logo vem em mente, o sentido da formalidade que atividade profissional exige. Como em todos os tipos de eventos, a funcao do cerimonial e trabalhar a imagem da melhor maneira possivel, seja ela publica ou privada, e ate mesmo pessoal, sem que se quebre protocolos.  Para quem nao sabe, o cerimonial e regido pelo Decreto No 70.274, de 9 de marco de 1972, que tem como escopo, a aprovacao das normas do cerimonial publico e a ordem geral de precedencia, sancionada pelo entao Presidente da Republica Emilio Garrastazu Medici. O Decreto No 70.274 em seu Art. 1o e bem claro ao dizer: \"Sao aprovadas as normas do Cerimonial Publico e a Ordem Geral de Precedencia, anexas ao presente Decreto, que se deverao observar nas solenidades oficiais realizadas na Capital da Republica, nos Estados, nos Territorios Federais e nas Missoes Diplomaticas do Brasil\". O Decreto 70.274 e mais que uma Lei, e tambem o instrumento vital de suporte as atividades do Cerimonial brasileiro, afinal, ele assegura as prerrogativas de pessoas - revestidas pelos cargos e funcoes que exercem - e organizacoes - publicas e privadas que gravitam num mesmo sistema social - integrando-as em prol das relacoes humanas, sociais e interpessoais. Mais que a polemizacao, este instrumento se presta a politizacao do uso do Decreto No 70.274, propiciando aos Cerimonialistas o debate consolidado das praticas coerentes para o escorreito exercicio laboral de uma atividade que possui, em sua essencia, a precedencia. Eventos corporativos como posses de presidencia e de diretoria, inauguracoes, lancamentos de produtos e eventos, ficam mais interessantes e pomposos com um cerimonial bem elaborado e correto, e e por meio do cerimonial, que as instituicoes publicas, empresas e entidades de classe e outros, conseguem transmitir e comunicar poder, estabilidade, seguranca, atualidade e assim por diante. Imaginem uma instituicao, ao promover um evento, ter o cuidado com os detalhes, com a seguranca e com sua propria imagem institucional. Pois o cerimonial promove todo este trabalho institucional positivo para as entidades em geral. No Poder Judiciario amapaense, o Departamento de Cerimonial e o responsavel por planejar, organizar e coordenar a realizacao dos eventos promovidos pela Justica do Amapa, e todos os atos protocolares para as reunioes solenes, especiais, comemorativas e, as destinadas as homenagens. Outra atividade desenvolvida pela equipe de cerimonialistas do TJAP e a organizacao de seminarios, simposios, congressos, palestras e audiencias de interesse da Corte, alem de auxiliar na organizacao de visitas oficiais e recepcao de autoridades. O Departamento de Cerimonial do TJAP, tambem executa outras atividades que fogem ao rito da funcao, como por exemplo, dar o apoio administrativo necessario para um bom desempenho de diversas funcoes do Presidente, Vice-Presidente, Corregedor-Geral e demais Desembargadores do Tribunal de Justica do Amapa.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre a Assessoria de Planejamento(ASPLAN) do TJAP\n<bot>: Assessorar a Presidencia do Tribunal de Justica do Amapa e um dos objetivos da Assessoria de Planejamento e Organizacao da instituicao. Em razao de sua importancia, a ASPLAN desenvolve, dentre outros, um conjunto de trabalhos alinhados aos propositos, objetivos, estrategias, politicas, programas, orcamentos, normas e procedimentos norteados pela Alta Gestao Responsavel em criar cenarios que irao definir as acoes necessarias ao enfrentamento de situacoes futuras, essa unidade tem a responsabilidade de colaborar para a materializacao dos planos de acao institucional, que resultarao em maiores beneficios a prestacao de servicos aos cidadaos que se encontram em todas as localidades do Estado, sem discriminacao e, dessa forma, vem contribuindo para ampliar a confianca e a aproximacao da sociedade ao Poder Judiciario estadual.  O cumprimento das metas da ASPLAN esta focado, antes de tudo, na missao, visao e atributos de valor do Judiciario estadual. E nesse espirito, sob os encaminhamentos da Diretoria-Geral da instituicao, executa as acoes do Judiciario com a colaboracao e o apoio dos departamentos e demais assessorias do Tribunal.  No conjunto de acoes desenvolvidas estao: a participacao na elaboracao do plano plurianual do Judiciario amapaense; acompanhar a elaboracao das diretrizes orcamentarias estadual; elaborar a proposta orcamentaria da Justica estadual; consolidar e encaminhar ao Conselho Nacional de Justica os dados estatisticos referentes ao programa Justica em Numeros e o cumprimento das acoes do Poder Judiciario local, inerentes as metas nacionais de nivelamento.  Outras atividades gerenciadas pela Assessoria de Planejamento e Organizacao dizem respeito aos projetos fomentados com recursos federais, e os projetos estimulados com recursos do Fundo e Apoio aos Juizados da Infancia e Juventude - FAJIJ, dentre outras inerentes ao dia a dia.  E com essa missao que a Assessoria de Planejamento do TJAP tem atuado e trabalha sempre no sentido de dar o melhor direcionamento aos pleitos do Judiciario. ",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre o Departamento de Gestao de Pessoas (DEGESP) do TJAP\n<bot>: O Departamento de Gestao de Pessoas (DEGESP), que por muitos anos foi conhecido como Departamento de Recursos Humanos, e responsavel pela vida funcional dos magistrados, servidores, estagiarios e colaboradores do Tribunal de Justica do Amapa. Questoes relacionadas a admissao, licencas, cadastros, acompanhamento de desempenho e gerenciamento de pagamentos sao todas executadas com muito afinco pelo DEGESP. A equipe do DEGESP e formada por servidores efetivos, comissionados, estagiarios e bolsistas. O Departamento conta com quatro Divisoes: Divisao de Magistrados, Divisao de Acompanhamento e Desenvolvimento de Pessoal, Divisao de Cadastro e Legislacao e Divisao de Folha de Pagamento. A Divisao de Magistrados e responsavel por cuidar exclusivamente da admissao, acompanhamento de desempenho e agendamento de licencas, ferias e aposentadoria de desembargadores e juizes. A Divisao de Acompanhamento e Desenvolvimento de Pessoal faz a admissao dos servidores, estagiarios e bolsistas alem de acompanhar o desempenho e a progressao funcional dos servidores efetivos do TJAP. Tambem em parceria com a Escola Judicial do Amapa sugere cursos de capacitacao para seus colaboradores. Nessa unidade estao vinculadas as atividades do Servico Medico e Servico Social, na realizacao de campanhas que visem os cuidados com a saude e bem estar. A Divisao de Cadastro e Legislacao e responsavel pelo gerenciamento de dados cadastrais de todos aqueles que atuam na Justica Amapaense. E responsavel tambem por instruir e em alguns casos encaminhar para o Departamento Juridico processos como o de pedidos de ferias, licencas medicas, pedidos de substituicao e licenca premio. E por ultimo, a Divisao de Folha de Pagamento, onde sao feitas as projecoes e a relacao de pagamento mensal dos trabalhadores do Judiciario amapaense.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre a Secretaria Especial de Precatorios(seprec) do TJAP\n<bot>: Criada no ano de 2011, a Secretaria Especial de Precatorios e um orgao vinculado a Presidencia do Tribunal de Justica do Amapa. E nela que tramitam as requisicoes de pagamento de uma quantia certa devida por determinado ente publico ou suas autarquias e fundacoes em virtude de decisao judicial condenatoria definitiva. Entenda como funciona: Apos a finalizacao do processo no Juizo de 1o Grau, ou no ultimo grau pelo qual tramitou, o feito volta ao 1o grau, cujo juiz encaminha ao Presidente do Tribunal de Justica um Oficio no qual descrevera todos os dados do processo de execucao. Por sua vez, o Presidente do Tribunal de Justica, requisitara o pagamento ao ente publico, que colocara o valor no orcamento do Estado, para o exercicio seguinte. O total dos valores de precatorios a ser pago sera colocado no orcamento de cada ente devedor para o devido pagamento de acordo com a Emenda Constitucional n.o 62/2009. Por meio do Sistema \"TUCUJURIS\" ha uma maior transparencia na tramitacao e no pagamento desses precatorios, pois todos os processos possuem o numero unico da Justica, o que proporciona uma maior visibilidade aos interessados e ao CNJ. A equipe da Secretaria de Precatorios do TJAP, coordenada pelo Juiz Auxiliar da Presidencia, conta com Assessoria juridica, Contadores, Diretor e Tecnicos Judiciarios. E responsavel em gerenciar mais de 2.400 processos de precatorios, todos organizados em uma Lista Unica, que obedecem a ordem cronologica e a natureza dos creditos (doenca grave, idade, alimentar e comum), conforme seja a situacao na qual se enquadre o credor. Sob a orientacao do Conselho Nacional de Justica, que levou em conta que a divida dos Entes Publicos e de alta monta, e por conta disso, o controle desses valores necessitava de tratamento mais rigoroso, alem de um pagamento mais efetivo e organizado, foi editada pelo Congresso Nacional a Emenda Constitucional no 62/2009, seguida de resolucao do CNJ que disciplina a materia, e obriga todos os Tribunais dos Estados a criar orgaos especificos para administrar esses requisitorios.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre a Câmara Única do TJAP\n<bot>: O termo \"Camara\" pode-se entender como sendo um Orgao Colegiado do Tribunal de Justica que reune mais de uma Turma para julgar os processos de competencia originaria e os em grau recursal, conforme estabelecido no Regimento Interno do TJAP. A Camara Unica e composta por todos os Desembargadores, a excecao do Presidente e do Corregedor-Geral do Tribunal. E presidida pelo Vice-Presidente, , na sua ausencia, pelo Desembargador mais antigo entre os presentes. O quorum para o funcionamento da Camara Unica e de apenas tres Desembargadores, desde que os presentes, possam integrar a composicao de julgamento. As sessoes ordinarias da Camara Unica ocorrem todas as tercas-feiras, salvo no periodo do recesso, e as sessoes extraordinarias mediante convocacao especial pelo seu Presidente. Compete a Camara Unica, processar e julgar, originariamente, conflitos de atribuicoes entre autoridades judiciarias e administrativas estaduais ou municipais e mandados de injuncao, respeitada a competencia do Tribunal Pleno. Cabe tambem, julgar em grau recursal, apelacoes civeis e criminais; agravos; embargos de declaracao de seus acordaos; agravos regimentais contra decisoes de relator em feitos afetos a sua competencia; recursos de habeas-corpus julgados na primeira instancia; recursos em sentido estrito; remessas e recursos de oficio; cartas testemunhaveis; e correicoes parciais ou reclamacoes, entre outras atribuicoes. A Secretaria da Camara Unica atende diretamente ao publico: advogados e partes interessadas nas informacoes sobre processos, no horario das 7h30 as 17h30 sem intervalo para almoco. Quanto ao protocolo de peticoes e recursos obedece ao horario de expediente externo: das 07h30 as 14h30.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre A Seccao Unica do TJAP\n<bot>: A Seccao Unica e um orgao de jurisdicao de 2o grau, composto por todos os Desembargadores, e e presidida pelo Vice-Presidente , na sua ausencia, pelo Desembargador mais antigo entre os presentes.  O Presidente do Tribunal e o Corregedor-Geral, somente participam das Sessoes quando tem feitos a eles distribuidos em situacoes excepcionais, de acordo com o Regimento Interno do TJAP. As sessoes da Seccao Unica acontecem duas vezes por mes, sempre as quintas feiras, onde sao julgadas materias de sua competencia, como Mandado de seguranca e habeas data, quando a autoridade informante for Juiz de Direito; Habeas corpus quando o coator for Juiz de Direito ou membro do Ministerio Publico; Acao rescisoria, ressalvada a competencia do Pleno; Revisao Criminal, ressalvada a competencia do Pleno; Pedido de desaforamento; Suspeicao oposta ao Juiz; Embargos de declaracao contra julgados da Seccao; Embargos infringentes e Agravo Regimental. Os feitos sao distribuidos em rodizio aos seus membros, obedecendo ao criterio de antiguidade. Apenas sao distribuidos ao Presidente e ao Corregedor nos casos de prevencao.  Na Secretaria da Seccao Unica, sao realizados os andamentos processuais referentes aos processos de competencia do orgao, dentre os quais: a elaboracao de documentos indispensaveis a instrucao e cumprimentos das ordens emanadas; elaboracao das pautas de julgamento das sessoes ordinarias e extraordinarias; intimacao das partes e advogados dos processos; controle de prazos processuais; elaboracao de estatisticas, bem como, todos os tramites necessarios ao regular andamento do processo. Os processos de competencia desta Secretaria podem ser consultados no site do TJAP, pelo Sistema TUCUJURIS 2o GRAU, com excecao daqueles que correm em segredo de justica, que somente as partes e Advogados podem ter acesso. Todos os servidores da Seccao Unica buscam atuar com total responsabilidade e agilidade, colaborando para efetivar os Mandamentos e Direitos Fundamentais Constitucionais da Razoavel Duracao do Processo e da Celeridade Processual. ",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: Fale-me sobre a Sessão Ordinária, do TJAP\n<bot>: Executar as ordens judiciais advindas dos Desembargadores por meio de acordaos e decisoes, por eles proferidos. Esse e o principio basico para o desempenho dos trabalhos exercidos pela Secretaria do Pleno do Tribunal de Justica do Amapa.As especificidades nas atribuicoes fazem parte deste departamento. Pois e nele que comeca o julgamento das acoes originarias, conflitos entre magistrados das varas civeis e criminais e, crimes de foro privilegiados. A Sessao Ordinaria, que e realizada todas as quartas-feiras, julga os meritos das acoes de competencia do Pleno. Ja a Sessao Extraordinaria, quando convocada, so acontece quando ha um numero relevante de julgamentos pendentes. E para haver Sessao, e necessaria a presenca de dois tercos do Colegiado. Qualquer cidadao ou cidada pode ter acesso as informacoes sobre processos que tramitam no ambito do Tribunal, exceto as que exigem, por lei, segredo de justica. Para ter acesso aos processos e simples e rapido: basta acessar o Sistema TUCUJURIS. Para o servidor, o sistema traz o beneficio da celeridade no cumprimento das decisoes e despachos proferidos pelos Desembargadores.",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99148-2978 ou pelo e-mail jciv1.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98402-3962 ou pelo e-mail civ1.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98406-0298 ou pelo e-mail crim1.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3831 ou pelo e-mail fam1.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99186-3047 ou pelo e-mail g.jfp1.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98405-6826 ou pelo e-mail civ2.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-2263 ou pelo e-mail crim2.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98415-3892 ou pelo e-mail fam2.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99187-1875 ou pelo e-mail jciv2.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98407-4479 ou pelo e-mail jfp2.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-2415 ou pelo e-mail g.civ3.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99133-6205 ou pelo e-mail crim3.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-9526 ou pelo e-mail fam3.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3784 ou pelo e-mail jciv3.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98405-69503 ou pelo e-mail vjefp.mcp.vc@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98402-1531 ou pelo e-mail nucleojustica.civeis@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-1903 ou pelo e-mail crim4.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-0629 ou pelo e-mail fam4.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3869 ou pelo e-mail jciv4.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98413-21965 ou pelo e-mail vara.civel@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98401-7958 ou pelo e-mail crim5.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3878 ou pelo e-mail jciv5.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98406-8845 ou pelo e-mail civ6.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99154-5712 ou pelo e-mail juizado.sul@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99144-3308 ou pelo e-mail jciv7.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 999144-3308 ou pelo e-mail jciv7.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99192-3063 ou pelo e-mail cjcap@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98409-7544 ou pelo e-mail cejusc.tribuna.vc@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98401-7466 ou pelo e-mail cejusc.norte@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99111-9093 ou pelo e-mail cejusc.ceap@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99181-6210 ou pelo e-mail cejusc.bailique@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-1209 ou pelo e-mail cejuscmcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99117-1011 ou pelo e-mail cejusc.famap@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3863 ou pelo e-mail plantao.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99182-4418 ou pelo e-mail central.garantias@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3553 ou pelo e-mail mandados.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312 3300 ou pelo e-mail cejure.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3845 ou pelo e-mail contadoria.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3580 ou pelo e-mail diretoria.forum@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99182-4418 ou pelo e-mail gab01.garantias@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98402-1531 ou pelo e-mail gab01.saude@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99182-4418 ou pelo e-mail gab02.garantias@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98407-4479 ou pelo e-mail gab02.saude@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99186-3047 ou pelo e-mail g.jfp1.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98409-9483 ou pelo e-mail jcivadm.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98411-2304 ou pelo e-mail jatosinfr.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98405-4536 ou pelo e-mail infancia.politicas.publicas@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98402-6374 ou pelo e-mail jvd.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3873 ou pelo e-mail juizado.criminal@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3863 ou pelo e-mail plantao.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99182-4418 ou pelo e-mail vepma.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-0891 ou pelo e-mail vep.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-4091 ou pelo e-mail tribjur1.mcp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-1763 ou pelo e-mail varacivel.santana@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-1871 ou pelo e-mail varacriminal.santana@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-2200 ou pelo e-mail g.2varacivel.santana@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98411-3341 ou pelo e-mail varacriminal.santana@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98410-8538 ou pelo e-mail varacivel.santana@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-7533 ou pelo e-mail cejusc.santana@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-4209 ou pelo e-mail cmand.stn@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3300 ou pelo e-mail psic.stn@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-4268 ou pelo e-mail dir.stn@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99129-5599 ou pelo e-mail jeciv.stn@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3782 ou pelo e-mail plantao.santana@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-0915 ou pelo e-mail infancia.stn@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99186-3136 ou pelo e-mail jvd.stn@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98411-0845 ou pelo e-mail vu.mazagao@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98402-6094 ou pelo e-mail varaunica.amapa@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98407-9948 ou pelo e-mail varaunica.tartarugalzinho@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-0106 ou pelo e-mail varaunica.ferreiragomes@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99123-5858 ou pelo e-mail cejusc.calcoene@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3874 ou pelo e-mail vu.calcoene@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-3328 ou pelo e-mail civ1.ljari@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98405-4627 ou pelo e-mail civ2.ljari@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-7640 ou pelo e-mail cejusc.laranjaldojari@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98407-4358 ou pelo e-mail civ1.opq@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98411-8904 ou pelo e-mail civ2.opq@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98406-9544 ou pelo e-mail cejusc.oiapoque@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99142-0794 ou pelo e-mail varaunica.portogrande@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-1932 ou pelo e-mail cejusc.vitoria@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-1932 ou pelo e-mail vu.vitoria@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98404-4532 ou pelo e-mail vu.pedra@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-4534 ou pelo e-mail central.acessibilidade@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99157-2916 ou pelo e-mail coordenadoria.mulher@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3780 ou pelo e-mail diretoriageral@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3207 ou pelo e-mail nucoop@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98412-5301 ou pelo e-mail ouvidoria@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3333 ou pelo e-mail protocolo@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3770 ou pelo e-mail degesp@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99131-2120 ou pelo e-mail sgpe@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98414-1301 ou pelo e-mail cejusc2g@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3857 ou pelo e-mail plantaoextraordinario.gab.desgilberto@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3365 ou pelo e-mail gab.carmo@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99141-4698 ou pelo e-mail gabdes.agostino@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99125-3163 ou pelo e-mail gabdes.mazurek@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99971-6032 ou pelo e-mail gabdes.carlostork@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98406-1107 ou pelo e-mail gab.jayme.ferreira@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3815 ou pelo e-mail gabdes.lages@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99183-3900 ou pelo e-mail gabdes.rommel@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98400-2334 ou pelo e-mail gabdes.adao@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99126-3816 ou pelo e-mail corregedoria@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 3312-3307 ou pelo e-mail presidencia@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99138-1420 ou pelo e-mail vicepres@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99132-2741 ou pelo e-mail ana.alcoforado@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99144-3173 ou pelo e-mail seccao.unica@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 981350404 ou pelo e-mail sec.pleno@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 98408-2105 ou pelo e-mail protocolo.precatorios@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap.gab01@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap.gab02@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap.gab03@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap.gab04@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
+        }
+    },
+    {
+        "text": "<human>: \n<bot>: Você pode entrar em contato pelo telefone (96) 99124-235 ou pelo e-mail turmarecursal.ap@tjap.jus.br",
+        "metadata": {
+            "source": "data.json"
         }
     }
 ]
